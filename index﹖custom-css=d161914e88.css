@@ -1,0 +1,1335 @@
+.homeprice{
+    width:100%;
+    background-color:#000;
+}
+
+.blockonomi {
+    background-color:#151515;
+    padding-top:60px;
+    
+}
+
+
+
+.blockonomi h2,.blockonomi h3{
+    color:#fff;
+    font-weight: 300!important;
+}
+
+.blockonomi h3{
+    color:#fff;
+    font-weight: 300!important;
+    font-size:16px!important;
+}
+
+.blockonomi p{
+   color:#b5b5b5;
+}
+
+.blockonomi .small-post {
+    position:relative;
+}
+
+.blockonomi .small-post .cat-label{
+    position:absolute;
+    top:0px;
+    left:15px;
+}
+
+.submitpr{
+   position:relative;
+    top:-30px;
+}
+
+.block-content .category-press-release .post-title-alt{
+    font-size: 18px;
+    padding:0px;
+}
+
+.block-content .category-press-release .post-author{
+    display:none;
+}
+.block-content .category-press-release .meta-sep{
+    display:none;
+}
+.block-content .category-press-release .date-link{
+    display:none;
+}
+
+.post-title-alt { font-weight: 300; font-size: 24px; }
+.grid-post .post-title-alt { font-weight: 300; font-size: 20px; }
+.sidebar .widget-title { font-weight: 300; }
+.list-post .post-tite { font-weight: 300; }
+.entry-content { font-weight: 300; }
+.navigation .menu > li > a, .navigation.inline .menu > li > a { font-weight: 300; }
+.navigation .menu > li li a, .navigation.inline .menu > li li a { font-weight: 300; }
+.top-bar-content, .top-bar.dark .top-bar-content, .main-head.simple .inner { background-color: #ffffff; border-color: #ffffff; }
+
+.top-bar .navigation { background: transparent; }
+
+.post-title-alt { font-weight: 300; font-size: 24px; }
+.grid-post .post-title-alt { font-weight: 300; font-size: 20px; }
+.sidebar .widget-title { font-weight: 300; }
+.list-post .post-tite { font-weight: 300; }
+.entry-content { font-weight: 300; }
+.navigation .menu > li > a, .navigation.inline .menu > li > a { font-weight: 300; }
+.navigation .menu > li li a, .navigation.inline .menu > li li a { font-weight: 300; }
+
+
+
+ul.spons{
+    margin:0px;
+    padding:0px;
+    margin-top:10px;
+	 border-top:1px solid #e1e1e1;
+	padding-top:10px;
+}
+
+.spons li{
+    list-style: none;
+    margin-left:0px!important;
+    padding-left:0px!important;
+}
+
+.spons  li {
+    padding-left: -15px;
+    margin-bottom: 0.8em;
+    clear:both;
+    border-bottom:1px solid #e1e1e1;
+    min-height:50px;
+}
+
+.spons img{
+    width:40px;
+    height:40px;
+    float: left;
+    margin-right:15px;
+}
+
+
+a.spontitle {
+    color:black;
+    font-size:16px;
+    font-weight:300;
+    margin-top:5px;
+    float:left;
+}
+
+
+a.sponreview  {
+  float: right;
+  margin-right: 5px;
+  margin-top:7px;
+  padding: 0 8px;
+  color: inherit;
+  background: #000;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: 24px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a.sponreview:hover {
+  background: #e52323!important;
+}
+
+a.sponvisit  {
+  float: right;
+  margin-right: 5px;
+  margin-top:7px;
+  padding: 0 8px;
+  color: inherit;
+  background: #2d53fe;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: 24px;
+  -webkit-font-smoothing: antialiased;
+}
+
+a.sponvisit:hover {
+  background: #000!important;
+}
+
+.manchester{
+	background-color:darkgrey;
+	padding-top:30px;
+}
+
+.disclaimer{
+	color:#9a9ca1;
+	margin-bottom:0px;
+	width:80%;
+	display:block;
+	margin:0 auto;
+	padding-top:30px;
+}
+.infobutton {
+  background: #2d53fe;
+  border: none;
+  border-radius: 2px;
+  color: #fff!important;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 14px 20px;
+  -webkit-appearance: none;
+  transition: 0s ease-in-out!important;
+	margin-top:20px!important;
+	margin-bottom:20px!important;
+    padding-right:50px;
+    padding-left:50px;
+    -webkit-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1)!important;
+    -moz-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1)!important;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1)!important; 
+}
+
+.infobutton {
+	line-height: 80px!important;
+}
+
+.infobutton:hover {
+  background: #000;
+  box-shadow: inset 0 0 80px rgba(255, 255, 255, 0.15);
+  color: #fff!important;
+  cursor: pointer;
+}
+
+.infobutton:after{
+	content: "????";
+	margin-left:5px;
+}
+
+.infobuttonstake {
+    padding:5px!important;
+    padding-right:30px!important;
+    padding-left:30px!important;
+    font-size:14px!important;
+}
+
+.bottomlogo {
+	display:block;
+	padding-top:30px;
+	margin-bottom:-20px!important;
+	margin:0 auto;
+	width:300px;
+}
+
+.disclosure{float:right}
+
+
+#items .item a:hover  .info{
+    display: block;
+	max-width:400px;
+position:absolute;
+right:10px;
+	background-color:white;
+	padding:15px;
+	padding-bottom:0px;
+	 z-index: 999;
+	border:1px solid #eee;
+	-webkit-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1);
+-moz-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1);
+box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1);
+}
+
+table {border-bottom:6px solid #fd005d; border-top:1px solid #fdbc00;-webkit-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1);
+-moz-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1);
+box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1); margin-top:30px;}
+
+
+
+#endorsed{
+    background-color: #e2e2e2;
+    padding-top:40px;
+    padding-bottom:40px;
+   
+}
+
+
+
+
+.page-template-page-prices  .featured-image {
+  display: block;
+}
+
+.page-template-page-prices .cryptoboxes{
+	color:white;
+    font-family: Roboto, Arial, sans-serif;
+    
+}
+
+.page-template-page-prices .post-content a{
+	color:white;
+}
+
+.page-template-page-prices .post-content{
+	
+}
+ 
+.page-template-page-prices #toc_container {
+	background-color: #343e47!important;
+    float:right;
+}
+
+.page-template-page-prices #toc_container a{
+	color: #fff!important;
+}
+
+a.adverti{font-size:14px;}
+
+.page-template-page-prices li {
+	font-size:16px;
+}
+
+
+.page-template-page-prices .blockonomi {
+    background-color:#343e47;
+    padding-bottom:40px;
+}
+
+
+
+.page-template-page-prices .blockonomi  h3{
+    font-weight: 300!important;
+    font-size:20px!important;
+}
+
+.page-template-page-prices hr {
+  background-color: transparent;
+  border: 0;
+  border-bottom: dotted 1px #c7d6e4;
+  height: 1px;
+  margin: 1.6em 0;
+}
+
+
+.page-template-page-prices li{
+    list-style: none;
+}
+
+.page-template-page-prices  .su-box  {
+  color:#343e47!important;
+
+	
+}
+.page-template-page-prices  .su-expand  {
+  padding:20px;
+	
+}
+.page-template-page-prices  .su-expand-content  {
+  padding-left:20px;
+	padding-right:20px;
+
+}
+
+
+.page-template-page-prices .post-content .su-box h3  {
+  color:#343e47!important
+}
+.page-template-page-prices  .su-box a {
+  	color:#343e47!important
+}
+
+
+
+
+
+.dpe-flexible-posts li{
+	
+	display:inline-block!important;
+	max-width:280px!important;
+	vertical-align: top!important;
+	margin-bottom:20px!important;
+	margin-right:10px!important
+}
+
+
+
+ .brokerpage{
+text-align:center;
+margin:0 auto;
+margin-top:-20px!important;
+}
+
+ .brokerpage a{
+font-size:12px;
+color:white!important;
+background-color:#6a7481;
+border-bottom:0px!important;
+padding:5px;
+padding-left:10px;
+padding-right:10px;
+border-radius:5px;
+margin-right:5px;
+display:block;
+max-width:150px;
+margin-bottom:5px;
+}
+
+.brokerpage .reviewbutton{
+background-color:#424a55!important;
+}
+
+.brokerpage .reviewbutton a:hover{
+background-color:#f35245;!important;
+}
+
+ .brokerpage a:hover{
+background-color:#f35245;
+}
+
+.topbrokers img{
+  margin:0px;
+    padding:0px;
+}
+
+
+
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+ 
+/* 4x3 Aspect Ratio */
+.iframe-container-4x3 {
+  padding-top: 75%;
+}
+
+
+
+#toc_container{
+    padding:2px;
+    font-size:14px!important;
+}
+
+.toc_list a{
+	color: black !important;
+	border-bottom:0px!important;
+    text-decoration: none;
+    border:0px!important;
+}
+
+#toc_container a{
+    border:0px!important;
+}
+
+
+
+#toc_container li,#toc_container ul{margin:0;padding:0}#toc_container.no_bullets li,#toc_container.no_bullets ul,#toc_container.no_bullets ul li,.toc_widget_list.no_bullets,.toc_widget_list.no_bullets li{background:0 0;list-style-type:none;list-style:none}#toc_container.have_bullets li{padding-left:12px}#toc_container ul ul{margin-left:1.5em}#toc_container{background:#f9f9f9;border:0px solid #aaa;padding:10px;margin-bottom:1em;width:auto;display:table;font-size:95%}#toc_container.toc_light_blue{background:#edf6ff}#toc_container.toc_white{background:#fff}#toc_container.toc_black{background:#000}#toc_container.toc_transparent{background:none transparent}#toc_container p.toc_title{text-align:center;font-weight:300;margin:0;padding:0}#toc_container.toc_black p.toc_title{color:#aaa}#toc_container span.toc_toggle{font-weight:400;font-size:90%}#toc_container p.toc_title+ul.toc_list{margin-top:1em}.toc_wrap_left{float:left;margin-right:10px}.toc_wrap_right{float:right;margin-left:10px}#toc_container a{text-decoration:none;text-shadow:none}#toc_container a:hover{text-decoration:none}.toc_sitemap_posts_letter{font-size:1.5em;font-style:italic}
+
+
+
+
+
+
+#prices{
+	display:block;
+	width:100%;
+	margin:0 auto;
+	text-align: center;
+	background-color: #4d5963;
+	min-height:120px;
+	padding-top:10px;
+}
+
+
+
+
+.aboutus{
+	color:white
+}
+
+.aboutus p{
+	margin-top:20px;
+	font-size:24px;
+	text-align: center
+}
+.manchester{
+	background-color: #343e47;
+	color:white;
+	padding-top:10px;
+    padding-left:50px;
+    padding-right: 50px;
+	padding-bottom:300px;
+	background-image: url(wp-content/themes/paperback/images/manchester.png);
+	background-position: center bottom -30px;
+	background-repeat: repeat-x;
+}
+
+.manchester h3{
+    color:#fff;
+}
+
+@media (max-width: 600px) {
+  .manchester {
+   background-position: right  bottom -30px;
+  }
+}
+
+@media (max-width: 600px) {
+.aboutus p{
+	margin-top:20px;
+	font-size:16px;
+	text-align: center
+}
+}
+
+
+
+
+
+
+.callout{
+	padding:20px;
+	background-color: #f8f8f8;
+	margin-top:20px;
+	margin-bottom:20px;
+    font-weight:300;
+    font-size:16px;
+}
+.callout li{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.wpforms-container {
+  background: #eaf1f7;
+  padding: 5%;
+}
+
+.disclaimer{
+	font-size:14px!important;
+	color:grey!important;
+}
+
+
+
+
+
+.sponban{margin-bottom:40px;
+}
+.sponban img{
+    margin:0 auto;
+    text-align: center;
+    display: block
+}
+
+.footsponban{margin-bottom:0px!important;
+}
+
+.page-template-page-prices .footsponban{
+    background-color:#343e47
+}
+
+.adver{ 
+    margin-top:-10px;
+    padding:20px;
+    text-align: center;
+    font-size:11px;
+    text-transform: uppercase;
+}
+.adver a{
+    color:#9b9b9b
+}
+
+.adver a:hover{
+    color:#2d53fe
+}
+
+
+
+
+.sponbot{
+    box-shadow:0 3px 5px 0 rgba(0,0,0,.3);
+    z-index:999;
+    max-width:800px;
+    margin:auto;
+    transition:all .25s ease;
+    background-color:#18b8da;
+    color:#fff;
+    font-size:16px;
+    position:fixed;
+    left:10%;
+    right:10%;
+    bottom:40px;
+    width:80%;
+    height:50px;
+    line-height:50px;
+    text-align:center;
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari and Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+
+.sponbot p{
+    margin:0px;
+    padding:0px;
+}
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+
+.sponbot:hover{
+     background-color: #000;
+}
+
+
+.sponbot a{
+    color:#fff;
+    display:block;
+}
+
+.sponbot a:hover{
+    color:#18b8da;
+    display:block;
+}
+
+.sponbot img {
+    height:50px;
+    float:left;
+     padding:10px;
+}
+
+.sponbot button{
+    position:absolute;
+    right:0px;
+    top:0px;
+    background:none;
+    padding:0px;
+    font-size:20px;
+    z-index:9999;
+    height:50px;
+    width:55px;
+    overflow: hidden
+}
+
+.sponbot button:hover{
+    background-color:#18b8da;
+}
+
+@media (max-width: 940px) {
+    .sponbot{
+        width:100%;
+        bottom:0px;
+        left:0px;
+        right:0px;
+    }
+    
+}
+
+@media (max-width: 540px) {
+   .sponbot img {
+    height:50px;
+     padding:10px;
+       text-align: center,
+       clear:both;
+       display:block
+}
+    .sponbot{
+    min-height:80px;
+      font-size:12px;
+        display: block;
+    }
+    
+    .sponbot p{
+        
+    position:absolute;
+        left:10px;
+        bottom:0px;
+    }
+    
+}
+
+
+
+
+
+
+
+.su-box {
+  	color:#343e47!important;
+    font-size:14px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    border:1px solid #dddddd!important;
+}
+
+.su-box li{
+  	list-style-type: circle;
+    margin-left:20px;
+  margin-bottom:5px!important;
+}
+
+.su-box:hover {
+    border:1px solid #f3077b!important;
+}
+
+a.booknow{
+    display:block;
+    background-color: #2d53fe;
+    color:#fff!important;
+    text-align: center;
+    padding:6px;
+    margin-top:30px;
+    
+}
+a.booknow:hover{
+    background-color: #000;
+    
+}
+
+
+.bookprice {
+font-size:12px;
+color:white!important;
+background-color:#6a7481;
+border-bottom:0px!important;
+padding:5px;
+padding-left:10px;
+padding-right:10px;
+border-radius:5px;
+
+display:block;
+
+    
+     float: right;
+  padding: 0 8px;
+  color: inherit;
+  background: #000;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  line-height: 24px;
+  -webkit-font-smoothing: antialiased;
+    position:relative;
+    top:10px;
+        right:10px;
+}
+
+.side-image{
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+}
+
+.risker{
+    font-size:16px;
+}
+
+.entry-content strong {     font-weight: 700; }
+
+
+.itb-widget .section-subtitle{
+    color:#b5b5b5!important;
+}
+
+.itb-widget .signals .title {
+    color:#4a4a4a;
+    font-size:12px!important;
+    font-weight:300!important;
+}
+.itb-widget .section-title h2{
+    font-size:20px;
+    
+}
+.itb-widget .summary .card{
+box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.8), 0px 4px 18px -2px rgba(0, 0, 0, 0.8);
+}
+
+.itb-widget .card
+{
+box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.8), 0px 4px 18px -2px rgba(0, 0, 0, 0.8);
+}
+
+.itb-widget .see-more-link a.call-to-action{
+    background-color:#2d53fe!important;
+}
+.itb-widget .see-more-link a.call-to-action:hover{
+    background-color:#000!important;
+}
+
+.itb-widget .text {
+    color:#4a4a4a;
+    font-size:11px!important;
+    font-weight:300!important;
+}
+
+.itb-widget .summary .legend .value{
+    font-size:15px!important;
+    font-weight:700!important;
+}
+
+
+.itb-widget .powered-by .logo{
+      -webkit-filter: grayscale(100%) brightness(700%) contrast(1);
+      filter: grayscale(100%) brightness(700%) contrast(1);
+    }
+
+.nexo{
+    background-color:#2d53fe;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2020/02/nexo-1.png);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.blockfi{
+    background-color:#1652f0;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2020/04/coinbase-claim.jpg);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.the-post-modern header .featured {
+    width: calc(100% + 350px)!important}
+
+#toppers{
+	margin:0 auto;
+	text-align:center;
+	margin-top:20px;
+	margin-bottom:-50px;
+}
+
+.archive-head {
+    position: relative;
+    padding: 40px 0;
+    border-bottom: 1px solid #ebebeb;
+    background: #151515;
+	color:#fff;
+    text-align: center;
+    text-transform: normal;
+    overflow: hidden;
+	display:none;
+}
+
+.archive-head h2{
+	color:#fff;
+	text-transform:normal
+}
+
+.binancebut{
+    background-color:#f0b90b;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2020/08/bin.jpg);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+
+
+.sponbot{
+	background-color:#000!important;
+}
+
+
+.mbitbut{
+    background-color:#333333;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2021/04/mbit-2.jpg);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.studbut{
+    background-color:#fe8fa6;;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2021/05/studentcoin-150x150.png);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.midbut{
+    background-color:#090c13;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2021/11/mid.jpg);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.bitcas{
+    background-color:#22033f;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2022/03/bitcas.jpg);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.callout{
+	padding:20px;
+  padding-top:0px;
+	margin-top:50px;
+  margin-bottom:50px;
+	border:5px solid #00a5f7;
+	background-color:#fff;
+
+}
+
+.callout img{ max-width:94%;
+	margin-left:20px!important;margin-right:20px!important;}
+
+
+.callout li{
+list-style-type:circle;
+margin-left:20px;
+}
+
+.verdict{
+    background-color:#eee;
+    color:#000;
+    margin:-20px;
+    margin-top:10px;
+    padding:20px;
+    font-size:16px;
+    line-height:25px;
+}
+
+.verdict h3{
+    margin-top:0px;
+    color:#fff
+}
+
+.infobutton {
+  background: #2d53fe;
+  border: none;
+  border-radius: 2px;
+  color: #fff!important;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 4px 10px;
+  -webkit-appearance: none;
+  transition: 0s ease-in-out!important;
+	margin-top:20px!important;
+	margin-bottom:20px!important;
+    padding-right:50px;
+    padding-left:50px;
+    -webkit-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1)!important;
+    -moz-box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1)!important;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.1)!important; 
+	display:block
+}
+
+.infobutton {
+	line-height: 50px!important;
+}
+
+.infobutton:hover {
+  background: #000;
+  box-shadow: inset 0 0 80px rgba(255, 255, 255, 0.15);
+  color: #fff!important;
+  cursor: pointer;
+}
+
+.infobutton:after{
+	font-family: 'FontAwesome';
+	content: "\f178";
+	margin-left:5px;
+}
+
+hr{
+border-bottom:3px solid #2d53fe;
+}
+
+
+.bitbut{
+    background-color:#000;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2022/11/1xbit.png);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.bitbut{
+    background-color:#000;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2022/11/1xbit.png);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.coinplaybut{
+    background-color:#000;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2022/12/coinplay2.png);
+	
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.logo-image{
+		max-width:220px;
+	}
+
+
+
+
+
+
+#sticky-footer{position:fixed;left:10%;right:10%;bottom:30px;width:80%;height:50px;border-radius:4px;line-height:50px;text-align:center;box-shadow:0 3px 6px 0 rgba(0,0,0,.1);z-index:999;max-width:1200px;margin:auto;transition:all .25s ease}
+
+#sticky-footer.telegram{background:#34ace1;border:1px #2a94c3 solid}#sticky-footer.telegram:before{width:30px;height:27px;display:block;background:url(https://blockonomi.com/images/sticky-footer-telegram.png.pagespeed.ce.0oAk7Bk8Dv.png) center no-repeat;content:"";position:absolute;top:50%;left:11px;margin-top:-14px}
+#sticky-footer.telegram:hover{background-color:#2b9acb}#sticky-footer:not(.telegram):after {content:"Ad";font-size:8px;right:0;top:0;color:#fff;display:inline-block;position:absolute;line-height:1;padding:4px}#sticky-footer .container{text-align:center}#sticky-footer .cs-packages{position:absolute;left:20px;font-size:12px;color:#666;top:0;text-decoration:none}#sticky-footer .cs-packages:hover{text-decoration:underline}#sticky-footer a{text-decoration:none;display:block;width:100%;font-size:16px}#sticky-footer p{color:#fff;font-weight:600;display:inline-block}#sticky-footer p strong{color:#fff}#sticky-footer.telegram a:hover span.cta-btn{background:transparent;color:#34ace1}
+
+#sticky-footer .close{position:absolute;right:0;top:0;width:50px;height:48px;background:url(wp-content/uploads/2023/11/Close.png) center no-repeat;display:block;cursor:pointer;border-radius:3px;transition:all .25s ease}
+
+
+#sticky-footer .close:hover{background-color:rgba(255,255,255,.1)}#onesignal-bell-container.onesignal-reset .onesignal-bell-launcher.onesignal-bell-launcher-bottom-right{bottom:70px!important}@media (max-width:615px){#sticky-footer span.hide{display:none}}@media (max-width:560px){#sticky-footer p strong{display:none}}@media (max-width:420px){#sticky-footer{height:40px;line-height:40px;bottom:12px}#sticky-footer .close{height:40px}#sticky-footer a{font-size:12px}#sticky-footer span.cta-btn{height:27px;margin-top:2px;line-height:28px}}@media (max-width:360px){#sticky-footer .hide2{display:none}}
+
+#sticky-footer.amfeix{background:#20335a;border:1px #19273f solid}#sticky-footer.amfeix:before{width:24px;height:24px;display:block;background:url(wp-content/uploads/2019/11/atfx.png) center no-repeat;content:"";position:absolute;top:50%;left:11px;margin-top:-12px}
+
+
+#sticky-footer.amfeix:hover{background-color:#19273f}@media (max-width:790px){.hide-amfeix{display:none}}#sticky-footer.bybit{background:#000}#sticky-footer.bybit:hover{background:#333}#sticky-footer.bybit:after{width:49px;height:35px;display:block;background:url(https://blockonomi.com/images/sticky-footer-bybit.png.pagespeed.ce.R7tI5JUK9c.png) center no-repeat;content:"";position:absolute;top:50%;left:16px;margin-top:-18px}@media (max-width:870px){#sticky-footer.bybit{width:100%;border-radius:0;bottom:0;left:0;right:0}}@media (max-width:710px){#sticky-footer.bybit a{font-size:14px}}@media (max-width:616px){#sticky-footer.bybit:after{display:none}}@media (max-width:560px){#sticky-footer.bybit a{font-size:12sickpx}}@media (max-width:480px){#sticky-footer.bybit .hide3{display:none}}
+
+
+.toplist{max-width:950px!important;
+margin: 0 auto;
+
+}
+
+
+.revlink{
+	color:#000!important;
+	font-size:13px!important;
+	display:inline-block;
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+.fcrp-scfeatured .revlink{
+	color:#2d53fe!important;
+	font-size:13px!important;
+	display:inline-block;
+}
+
+.fcrp-scfeatured{
+	border:7px solid #eee!important;
+}
+
+
+.fcrp-toptab .fcrp-toptab-row:first-child {
+  background: #fff!important;
+	border:5px solid #f9da06;
+}
+
+.fcrp-toptab-col.fcrp-feat_list ul li {
+  font-weight: normal!important;
+}
+
+.fcrp-toptab-col.fcrp-site_list span{
+  display:block!important;
+}
+
+.fcrp-toptab {
+  max-width:950px;
+	margin:0 auto;
+}
+
+.wild{
+    background-color:#16cf5f;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/02/wildbutdark.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.coinsbut{
+    background-color:#080808;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/02/coinsgamebut.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.hugebut{
+    background-color:#000;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/03/huge.png);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+
+.coinkingsbut{
+    background-color:#0a256e;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/02/coinkings.jpg);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+
+.sirwinbut{
+    background-color:#00be78;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/04/sir.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.sirwinbut{
+    background-color:#00be78;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/04/sir.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.betplaybut{
+    background-color:#000610;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/05/betplay-logo.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+
+.metawinbut{
+    background-color:#18b8da;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/05/mw.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+.wallstreetmemesbut{
+    background-color:#2cd053;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/05/walls.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+.tldr{
+	font-size:14px;
+	background-color:#eee;
+	padding:20px;
+	padding-top:10px;
+	
+}
+
+
+.imrbut{
+    background-color:#B9F94D;
+    color:#000;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2024/06/imr.png);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}
+
+
+.organic1 .fcrp-toptab .fcrp-toptab-row:first-child {
+  background: #fff !important;
+  border: 5px solid #00de00;
+}
+
+
+.bcbut{
+    background-color:#0b243a;
+    color:#fff;
+    padding:5px;
+    padding-left:30px;
+    padding-right:10px;
+    border-radius:3px;
+    box-shadow: 0 2px 4px -2px rgba(0, 0, 0, 0.15), 0px 4px 18px -2px rgba(0, 0, 0, 0.15);
+    background-image: url(wp-content/uploads/2023/10/bc-game-review.gif);
+    background-size: 20px;
+    background-position: left 5px top 5px;
+    background-repeat: no-repeat;
+    font-size:14px;
+}

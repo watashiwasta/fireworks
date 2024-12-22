@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Cryptocurrency Education: Latest Information &amp; Resources from Blockonomi</title>
+	<atom:link href="https://blockonomi.com/education/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blockonomi.com/education/</link>
+	<description>Cryptocurrency News &#38; Your Guide to the Blockchain Economy</description>
+	<lastBuildDate>Tue, 10 Dec 2024 18:54:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>https://blockonomi.com/wp-content/uploads/2020/07/fav-50x50.png</url>
+	<title>Cryptocurrency Education: Latest Information &amp; Resources from Blockonomi</title>
+	<link>https://blockonomi.com/education/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">134176212</site>	<item>
+		<title>Complete Guide to Yield Farming: How to Participate in Ethereum DeFi&#8217;s Growing Harvests</title>
+		<link>https://blockonomi.com/yield-farming/</link>
+		
+		<dc:creator><![CDATA[William M. Peaster]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 08:34:59 +0000</pubDate>
+				<category><![CDATA[DeFi]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Ethereum]]></category>
+		<category><![CDATA[Eth]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[Yield Farming]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=43373</guid>
+
+					<description><![CDATA[<p>Decentralized finance, or DeFi, has exploded atop the Ethereum blockchain this year. In doing so, the sector&#8217;s top apps, like trading protocols Uniswap and Curve, have never been more used or popular. In recent months, this DeFi boom has been rapidly accelerated by the arrival of the new hit &#8220;yield farming&#8221; phenomenon. But what is [...]</p>
+<p>The post <a href="https://blockonomi.com/yield-farming/">Complete Guide to Yield Farming: How to Participate in Ethereum DeFi&#8217;s Growing Harvests</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Decentralized finance, or DeFi, has exploded atop the Ethereum blockchain this year. In doing so, the sector&#8217;s top apps, like trading protocols Uniswap and Curve, have never been more used <a href="https://blockonomi.com/uniswap-sees-revenues-surge-to-new-heights/">or popular</a>.</p>
+<p>In recent months, this DeFi boom has been rapidly accelerated by the arrival of the new hit &#8220;yield farming&#8221; phenomenon. But what is yield farming, how does it work, and how can you participate?</p>
+<p>In today&#8217;s post, we&#8217;ll be breaking down the ins and outs of yield farming for beginners so you can eventually start harvesting crypto on your own <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f468-200d-1f33e.png" alt="👨‍🌾" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f69c.png" alt="🚜" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<hr />
+<h2>What Yield Farming Is</h2>
+<p>DeFi apps are fledgling, and they need users to grow and actualize.</p>
+<p>To this end, this year DeFi projects have been increasingly turning to yield farming. This process involves protocols distributing governance tokens to their users to bootstrap activity and incentivize the support of key early stakeholders.</p>
+<p>Let&#8217;s take the example of major DeFi borrowing and lending project Compound, which rolled out farming around its COMP governance token earlier this year. Compound distributed COMP retroactively to its past lenders and borrowers and offered ongoing COMP rewards to its current ones.</p>
+<p>In other words, you could earn COMP &#8212; and thus a future say in Compound&#8217;s governance &#8212; just for using Compound. That&#8217;s yield farming in a nutshell.</p>
+<hr />
+<h2>What You’ll Need to Start Farming</h2>
+<p>To start yield farming, your checklist is pretty simple. You&#8217;ll only need:</p>
+<ul>
+<li><em>An Ethereum address (ideally a hardware wallet)</em></li>
+<li><em>Some ETH to pay for transactions</em></li>
+</ul>
+<p>And that&#8217;s all! Once you have your wallet and ETH prepared, you&#8217;ll be ready to move on to analyzing and identifying which yield farming opportunities are right for you.</p>
+<hr />
+<h2>Finding Farming Opportunities</h2>
+<p>New yield farming campaigns are popping up everyday at this point. Figuring out which ones are worthwhile to participate in is half the battle.</p>
+<p>The good news is that plenty of resources have recently popped up that make this process a lot easier. Some of these include:</p>
+<ul>
+<li>Etherscan&#8217;s new <a href="https://etherscan.io/yieldfarms" target="_blank" rel="noopener noreferrer"><strong>Yield Farms</strong></a> page offers an unfiltered and extensive list of projects that have ongoing yield farming campaigns.</li>
+<li>The <strong><a href="https://yieldfarming.info/" target="_blank" rel="noopener noreferrer">yieldfarming.info</a></strong> site provides a curated list of yield farming opportunities as well as detailed wallet-based stats, such as your estimated annual percentage yield (APY) and more</li>
+<li>Crypto market data site Coingecko also has a new <a href="https://www.coingecko.com/en/yield-farming" target="_blank" rel="noopener noreferrer"><strong>Farms</strong></a> page that hosts top yield farming opportunities and provides tools like an APY calculator, an impermanent loss calculator, and more.</li>
+</ul>
+<hr />
+<h2>Keep in Mind APY + Gas Prices</h2>
+<p>You won&#8217;t want to use or participate in a protocol for yield farming without having a general idea of what kind of APY you can expect for doing so. Some of the sites mentioned above are great for this. Here, a few other things to keep in mind:</p>
+<ul>
+<li>Yield farming projects will show APY stats for their pools on their own sites. These can be deceptive or confusing at best, so don&#8217;t take these stats as the final word.</li>
+<li>Pools with high APYs are high risk, high reward. Tread cautiously.</li>
+<li>APYs shift over time, as yield farming campaigns typically have different distribution phases and so on. Be aware of how these distributions are set up and change (e.g. dwindling token rewards over a period of 4 weeks).</li>
+</ul>
+<p>Then another important consideration is gas. On Ethereum, users have to pay a fee, or &#8220;gas,&#8221; to have their transactions processed.</p>
+<p>Since Ethereum&#8217;s DeFi arena is currently booming, demand for Ethereum blockspace has never been higher and gas prices have skyrocketed accordingly.</p>
+<p>That said, it can be really expensive to enter and exit yield farming positions lately. Make sure you&#8217;re taking into account these gas costs as you try to figure out which opportunities are most feasible for you.</p>
+<hr />
+<h2>Jumping Into Liquidity Pools</h2>
+<p>Yield farming centers around liquidity pools. When you deposit crypto assets to these pools, you receive LP tokens (and thus the possible upside of earning a cut of the pool&#8217;s transaction fees) in return.</p>
+<p>Luckily, it&#8217;s never been easier to provide liquidity to the hottest farming pools using DeFi dashboards like <a href="https://zapper.fi/" target="_blank" rel="noopener noreferrer">Zapper.fi</a> or <a href="http://app.zerion.io" target="_blank" rel="noopener noreferrer">Zerion</a>. These services let you add your assets wherever you like and essentially with the click of a single button. Then, it&#8217;s time for staking.</p>
+<figure id="attachment_43402" aria-describedby="caption-attachment-43402" style="width: 691px" class="wp-caption alignnone"><img fetchpriority="high" decoding="async" class="wp-image-43402" src="https://blockonomi.com/wp-content/uploads/2020/09/Zapper.png" alt="" width="691" height="333" srcset="https://blockonomi.com/wp-content/uploads/2020/09/Zapper.png 1486w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-300x145.png 300w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-1024x493.png 1024w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-768x370.png 768w, https://blockonomi.com/wp-content/uploads/2020/09/Zapper-50x24.png 50w" sizes="(max-width: 691px) 100vw, 691px" /><figcaption id="caption-attachment-43402" class="wp-caption-text">Image via Zapper.fi</figcaption></figure>
+<hr />
+<h2>Staking for Making</h2>
+<p>Once you have your LP tokens for your farm of choice, you&#8217;ll want to go stake them in order to start farming your target project&#8217;s governance token. Let&#8217;s take Uniswap&#8217;s new UNI farming for example.</p>
+<p>One of Uniswap&#8217;s first four UNI rewards pools is its ETH/DAI liquidity pool. Let&#8217;s say you hypothetically get your ETH/DAI LP tokens ready. Then you&#8217;d simply head over to Uniswap and follow these steps:</p>
+<ul>
+<li>Click on the UNI tab</li>
+<li>Click on the ETH/DAI Deposit button</li>
+<li>Click on the Stake button</li>
+</ul>
+<figure id="attachment_43405" aria-describedby="caption-attachment-43405" style="width: 449px" class="wp-caption aligncenter"><img decoding="async" class=" wp-image-43405" src="https://blockonomi.com/wp-content/uploads/2020/09/Uni.png" alt="" width="449" height="434" srcset="https://blockonomi.com/wp-content/uploads/2020/09/Uni.png 872w, https://blockonomi.com/wp-content/uploads/2020/09/Uni-300x289.png 300w, https://blockonomi.com/wp-content/uploads/2020/09/Uni-768x741.png 768w, https://blockonomi.com/wp-content/uploads/2020/09/Uni-50x48.png 50w" sizes="(max-width: 449px) 100vw, 449px" /><figcaption id="caption-attachment-43405" class="wp-caption-text">Image via Uniswap</figcaption></figure>
+<p>Complete the transaction, and there you have it: you&#8217;ll start earning UNI automatically for as long as the farming campaign continues. Moreover, you can follow this same general process when it comes to participating in other farms, too.</p>
+<hr />
+<h2>Yield Farming for Beginners: yEarn Vaults</h2>
+<p>yield aggregator protocol <a href="https://twitter.com/iearnfinance" target="_blank" rel="noopener noreferrer">yEarn</a> has become a major hit in DeFi because it automates yield farming and makes it simple. One of yEarn&#8217;s early stars have been its Vaults, which are DeFi products that let you automatically long the collateral you put in.</p>
+<p>For example, consider yEarn&#8217;s yETH Vault. You deposit ETH into the Vault, and then the system starts doing its magic in leveraging that ETH. In doing so, you earn more returns in ETH all the while. It&#8217;s simple, straightforward, and you don&#8217;t have to do anything else besides depositing an asset into the Vault.</p>
+<p>yEarn also offers a variety of Vaults, e.g. a yLINK Vault for those wanting to long Chainlink.</p>
+<hr />
+<h2>The Prospects of Governance Tokens</h2>
+<p>At the end of the day, yield farmers are farming <em>governance tokens</em>. These tokens can be dumped on the market for immediate gains, sure, but they also offer the chance for holders to own and collaborate on the very protocol&#8217;s they use going forward.</p>
+<p>This is all quite new territory, not just within the cryptoeconomy but also the world. Governing these protocols is a huge ongoing experiment. It&#8217;ll be interesting to see how farming and governance play into each other in the years ahead.</p>
+<hr />
+<h2>Bitcoiners Can Join In, Too</h2>
+<p>Just because your portfolio is BTC heavy doesn&#8217;t mean you have to sit on the sidelines when it comes to yield farming.</p>
+<p>In fact, the most popular farming pool in all of DeFi right now is Uniswap&#8217;s ETH/WBTC pool, which currently has over $400 million in <a href="https://www.coingecko.com/en/yield-farming" target="_blank" rel="noopener noreferrer">Value Locked</a> (VL) according to Coingecko. So here&#8217;s what you could think about doing:</p>
+<ul>
+<li><em>Convert some of your BTC to WBTC</em></li>
+<li><em>Deposit your WBTC into Uniswap&#8217;s ETH/WBTC pool</em></li>
+<li><em>Farm UNI (and sell it for more BTC if you want!)</em></li>
+</ul>
+<hr />
+<h2>Beware Risks and Scams</h2>
+<p>There are many risks around yield farming. First off, don&#8217;t go chasing every single yield farming opportunity in trying to find the next big thing. Scammers are popping back up to take advantage of the buzz.</p>
+<p>There&#8217;s also the risk of bugs, hacks, and impermanent loss (which simply means you would&#8217;ve been better off holding your asset, e.g. ETH, rather than serving as an LP for it in a particular pool).</p>
+<p>Once you have your head wrapped around these risks, the fields are yours for farming.</p>
+<p>The post <a href="https://blockonomi.com/yield-farming/">Complete Guide to Yield Farming: How to Participate in Ethereum DeFi&#8217;s Growing Harvests</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">43373</post-id>	</item>
+		<item>
+		<title>Uniswap&#8217;s November Volume Reaches $38B Across Ethereum L2 Networks</title>
+		<link>https://blockonomi.com/uniswaps-november-volume-reaches-38b-across-ethereum-l2-networks/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Thu, 28 Nov 2024 09:21:45 +0000</pubDate>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=107035</guid>
+
+					<description><![CDATA[<p>TLDR Uniswap achieved record $38 billion monthly volume across Ethereum L2s in November This surpassed previous March record by $4 billion Arbitrum led with $19.5 billion volume, followed by Base at $13 billion UNI token up 42% in last week, trading at $12.58 Protocol earned over $90 million in fees last month Uniswap, the leading [...]</p>
+<p>The post <a href="https://blockonomi.com/uniswaps-november-volume-reaches-38b-across-ethereum-l2-networks/">Uniswap&#8217;s November Volume Reaches $38B Across Ethereum L2 Networks</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h2>TLDR</h2>
+<ul>
+<li class="whitespace-normal break-words">Uniswap achieved record $38 billion monthly volume across Ethereum L2s in November</li>
+<li class="whitespace-normal break-words">This surpassed previous March record by $4 billion</li>
+<li class="whitespace-normal break-words">Arbitrum led with $19.5 billion volume, followed by Base at $13 billion</li>
+<li class="whitespace-normal break-words">UNI token up 42% in last week, trading at $12.58</li>
+<li class="whitespace-normal break-words">Protocol earned over $90 million in fees last month</li>
+</ul>
+<hr />
+<p class="whitespace-pre-wrap break-words">Uniswap, the leading decentralized cryptocurrency exchange, has <a href="https://cointelegraph.com/news/uniswap-notches-record-monthly-trading-volume-across-ethereum-l2s-defi-demand">recorded its highest-ever monthly trading volume across Ethereum Layer 2 networks, reaching $38 billion in November.</a> This milestone marks a $4 billion increase from its previous record set in March.</p>
+<p class="whitespace-pre-wrap break-words">The surge in trading activity was particularly strong on Arbitrum, which led all Layer 2 networks with $19.5 billion in monthly volume. Base, the Coinbase-incubated network, followed closely behind with $13 billion in trades during the same period.</p>
+<p class="whitespace-pre-wrap break-words">These numbers reflect a broader return of traders and investors to the decentralized finance (DeFi) ecosystem. The increase in activity has occurred across multiple Layer 2 networks, including Polygon and Optimism, alongside Arbitrum and Base.</p>
+<p class="whitespace-pre-wrap break-words">The trading surge has directly impacted Uniswap&#8217;s revenue stream. The protocol collected more than $90 million in fees during the past month, placing it sixth among all blockchain protocols in fee generation. This performance put Uniswap ahead of several major networks, including Tron and Maker.</p>
+<p class="whitespace-pre-wrap break-words">The market has responded positively to these developments, with Uniswap&#8217;s native token, <a href="https://dune.com/queries/3553382/5979769">UNI, experiencing a 42% price increase over the past week.</a> The token reached $12.58, showing a 10% gain in just 24 hours.</p>
+<p class="whitespace-pre-wrap break-words">Henrik Andersson, chief investment officer at Apollo Crypto, attributes the volume increase to rising demand for assets and stablecoins within the DeFi ecosystem. He notes that on-chain yields are also trending upward, contributing to the overall growth in trading activity.</p>
+<p class="whitespace-pre-wrap break-words">In comparison to other decentralized exchanges, Uniswap&#8217;s performance stands out. The protocol has outpaced competitors like Solana-based Raydium, which saw a 2.2% decline in the past week, and Jupiter, which managed a 7.7% increase during the same period.</p>
+<p class="whitespace-pre-wrap break-words">The growth in Layer 2 trading volume demonstrates the increasing adoption of these scaling solutions. Layer 2 networks are designed to handle transactions more efficiently and at lower costs than the main Ethereum network, while maintaining security and decentralization.</p>
+<p class="whitespace-pre-wrap break-words">Base&#8217;s strong showing is particularly notable, as the relatively new network has quickly established itself as a major player in the Layer 2 ecosystem. Its $13 billion in monthly volume indicates rapid user adoption and growing trust in the platform.</p>
+<p class="whitespace-pre-wrap break-words">The distribution of trading volume across multiple Layer 2 networks suggests a healthy diversification of the DeFi ecosystem. Rather than concentrating activity on a single platform, traders are actively using various Layer 2 solutions for their transactions.</p>
+<p class="whitespace-pre-wrap break-words">The cost efficiency of Layer 2 networks has played a crucial role in attracting traders. These networks offer substantially lower transaction fees compared to the main Ethereum network, making them attractive for frequent traders and smaller transactions.</p>
+<p class="whitespace-pre-wrap break-words">The data from Dune Analytics, which tracks these metrics, shows consistent growth throughout November rather than isolated spikes. This pattern suggests sustained trading interest rather than short-term speculation.</p>
+<p class="whitespace-pre-wrap break-words">The current trading volumes also coincide with increased activity in the broader cryptocurrency market. The overall market conditions have created an environment conducive to higher trading volumes across decentralized exchanges.</p>
+<p class="whitespace-pre-wrap break-words">Uniswap&#8217;s fee generation of $90 million demonstrates the protocol&#8217;s ability to monetize its services effectively. These fees are generated from the small percentage charged on each trade, with the volume of transactions contributing to the substantial total.</p>
+<p class="whitespace-pre-wrap break-words">The platform&#8217;s performance in November has surpassed several competitors in the decentralized exchange space, establishing Uniswap as a leader in DeFi trading activity. The protocol&#8217;s ability to handle such high volumes while maintaining stability supports its position as a mature platform in the cryptocurrency ecosystem.</p>
+<p>The post <a href="https://blockonomi.com/uniswaps-november-volume-reaches-38b-across-ethereum-l2-networks/">Uniswap&#8217;s November Volume Reaches $38B Across Ethereum L2 Networks</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">107035</post-id>	</item>
+		<item>
+		<title>What is Sound Money? A Look at Bitcoin’s Emergence</title>
+		<link>https://blockonomi.com/sound-money-bitcoin/</link>
+					<comments>https://blockonomi.com/sound-money-bitcoin/#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Curran]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2024 09:23:56 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Sound Money]]></category>
+		<category><![CDATA[Sound Money Bitcoin]]></category>
+		<category><![CDATA[What is Sound Money]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=19512</guid>
+
+					<description><![CDATA[<p>Throughout history, there have various iterations of sound money, from the Rai stones of the Yap islands to the gold standard. However, sound money has remained elusive over the last century following the proliferation of credit expansion through central banking fractional-reserve policies that lead to endemic inflation. Sound money is consistently touted as a necessary [...]</p>
+<p>The post <a href="https://blockonomi.com/sound-money-bitcoin/">What is Sound Money? A Look at Bitcoin’s Emergence</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Throughout history, there have various iterations of sound money, from the Rai stones of the Yap islands to the gold standard.</p>
+<p>However, sound money has remained elusive over the last century following the proliferation of credit expansion through central banking fractional-reserve policies that lead to endemic inflation.</p>
+<p>Sound money is consistently touted as a necessary prerequisite to a prosperous society and a stable price mechanism in free market economies by the <a href="https://en.wikipedia.org/wiki/Austrian_School">Austrian School</a> of economics.</p>
+<p>Eminent figures such as FA Hayek, Ludwig von Mises, and Carl Menger detailed the root causes of ‘boom and bust’ economic cycles as the extended inflationary monetary policies that have come to dominate government direction since the 1930s.</p>
+<p>FA Hayek even went so far as to presciently describe a new kind of currency that would be free from government control in 1984 as the only true means of achieving good, sound money again.</p>
+<p>Since then, <a href="https://blockonomi.com/bitcoin/">Bitcoin has emerged</a> not only as sound money but perhaps exists among the hardest currencies created, made for the digital age.</p>
+<p>Adequately understanding sound money is vital to comprehending the fundamental advantages <a href="https://blockonomi.com/bitcoin-price/">of Bitcoin</a> and why its novelty is often challenging to accept or comprehend after a prolonged period of global fiat dominance.</p>
+<p>As a side note, if you have a chance to read <a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861">The Bitcoin Standard</a> by Saifedean Ammous, I would highly recommend it, no matter what your background is, as it provides some crucial context on sound money and <a href="https://blockonomi.com/buy-bitcoin/">Bitcoin’s</a> place in monetary history.</p>
+<p><strong>Quick Summary:</strong> Bitcoin emerges as a decentralized, cryptographically-secured digital asset built for the internet age that meets the key criteria of sound money better than previous alternatives by retaining value over time, having a transparent and predictable supply resistant to inflation, and empowering users with financial privacy, inclusion, and sovereignty.</p>
+<hr />
+<h2>TLDR</h2>
+<table>
+<thead>
+<tr>
+<th>Point</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sound money emerges naturally</td>
+<td>Historically, sound money like gold and silver emerged naturally in economies to facilitate trade and commerce.</td>
+</tr>
+<tr>
+<td>Sound money retains value</td>
+<td>Good money maintains its purchasing power over time. Easy money like fiat currency loses value through inflation.</td>
+</tr>
+<tr>
+<td>Sound money has stock-to-flow</td>
+<td>The existing supply compared to the flow of new production is high. This makes it resistant to inflation.</td>
+</tr>
+<tr>
+<td>Sound money is hard to produce</td>
+<td>The effort and energy required gives it inherent value. Simply printing money makes it unsound.</td>
+</tr>
+<tr>
+<td>Sound money is divisible</td>
+<td>It can be divided into small units without losing value, enabling convenience and micro-transactions.</td>
+</tr>
+<tr>
+<td>Sound money preserves privacy</td>
+<td>Decentralized cryptocurrencies like Bitcoin allow anonymous transactions, reducing coercive control.</td>
+</tr>
+<tr>
+<td>Sound money enables sovereignty</td>
+<td>Individuals retain control of their money and are not subject to decisions affecting its value made by others.</td>
+</tr>
+<tr>
+<td>Bitcoin meets sound money criteria</td>
+<td>Bitcoin has a fixed supply, stock-to-flow, decentralization, divisibility, privacy, and empowers users financially.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>What Defines Sound Money?</h2>
+<p>The <a href="https://moneycheck.com/money-gold-monetary-policy/">history of money</a> is both enormously impactful on today’s conception of value and how sound money emerges naturally in a civilization. Examples of such sound money extend back to ancient societies, including the Yapese Rai stones and the gold Solidus of the Byzantine Empire.</p>
+<p>Nick Szabo provides an excellent analysis of the ancient beginnings of value systems with his distinguished piece; <a href="https://nakamotoinstitute.org/shelling-out/">Shelling Out: The Origins of Money</a>.</p>
+<p>Szabo details how money evolved from collectibles that were scarce and carried sentimental value or represented significant effort to acquire as some of the earliest origins of money.</p>
+<p><img decoding="async" class="alignnone wp-image-6417 aligncenter" src="https://blockonomi.com/wp-content/uploads/2018/04/nick-szabo-profile.jpg" alt="Nick Szabo Profile" width="808" height="538" srcset="https://blockonomi.com/wp-content/uploads/2018/04/nick-szabo-profile.jpg 1400w, https://blockonomi.com/wp-content/uploads/2018/04/nick-szabo-profile-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/04/nick-szabo-profile-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/04/nick-szabo-profile-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/04/nick-szabo-profile-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2018/04/nick-szabo-profile-1300x866.jpg 1300w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/nick-szabo-profile/">Crypto Profiles: Nick Szabo, The Quiet Cryptocurrency Pioneer</a></p>
+<p>Money emerges to provide a solution to the <a href="https://en.wikipedia.org/wiki/Coincidence_of_wants">Coincidence of Wants</a> problem where an intermediary store of value that is salable across time and space is necessary to facilitate a growing economy.</p>
+<p>Moreover, <a href="https://mises.org/library/principle-sound-money">sound money</a> needs to retain value over time, function as a medium of exchange, and be highly divisible to function at scale.</p>
+<p>Ammous references that for money to be sound, it needs to be hard rather than easy. Easy money is what constitutes national fiat currencies today as their supply can easily be expanded, drastically reducing their value over time and making them a highly ineffective store of value.</p>
+<p>The USD is ‘easy money’ because the Federal Reserve can expand the money supply through inflation as the government sees fit, to expand credit for public spending or bail out industries (i.e., <a href="https://en.wikipedia.org/wiki/Financial_crisis_of_2007-2008">global financial crisis of 2008</a>).</p>
+<p>Conversely, hard money &#8212; <a href="https://moneycheck.com/investing-in-gold-guide/">such as gold</a> &#8212; has a high <a href="https://en.wikipedia.org/wiki/Stock_and_flow">stock-to-flow</a> ratio, meaning that the supply of the value in existence is significantly higher and consistently maintains a high ratio of how much is in circulation compared to how much can be injected into the circulation over any given period.</p>
+<p>Gold achieves this not solely because it is rare, but because of the time and effort that is required to mine it is profound, making the introduction of more gold into the global gold supply relatively consistent and very low compared to the overall amount already available. As such, gold cannot be easily inflated and subsequently devalued.</p>
+<p>Sound money is hard money that is highly divisible, salable across time and space, and leads to a <a href="https://en.wikipedia.org/wiki/Time_preference">low-time preference</a> of participants in free market economies. A low time-preference leads to the accumulation of capital through savings and the eventual flourishing of production and technological advance.</p>
+<p>Historically, gold is the most well-established sound money that has existed as a means of value in virtually every civilized economy since the Romans in one form or another.</p>
+<p>The gold standard provides a stable price mechanism for international trade to function without the incessant need for competing devaluation of nationalized currencies that is so prevalent today (i.e., <a href="https://www.brookings.edu/blog/order-from-chaos/2015/09/21/currency-devaluation-and-u-s-china-relations/">China and the U.S.</a>).</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-16663 aligncenter" src="https://blockonomi.com/wp-content/uploads/2018/11/cryptocurrency-gold.jpg" alt="Cryptocurrency and Gold" width="808" height="538" srcset="https://blockonomi.com/wp-content/uploads/2018/11/cryptocurrency-gold.jpg 1400w, https://blockonomi.com/wp-content/uploads/2018/11/cryptocurrency-gold-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/11/cryptocurrency-gold-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/11/cryptocurrency-gold-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/11/cryptocurrency-gold-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2018/11/cryptocurrency-gold-1300x866.jpg 1300w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/cryptocurrency-gold/">Crypto &amp; Gold: Two Magic Bullets to Beat Recessions &amp; the Fed says Ron Paul</a></p>
+<p>Without sound money, people’s savings, consumer prices, and the overall economic direction of a country are at the whims of the entity that controls the money supply, which today, are ubiquitously governments.</p>
+<p>An important caveat of central government banking that is widely overlooked or misunderstood is that central banks continue to hoard gold. If they believed in the value of their fiat currencies as sound money, there would be no need to hoard gold, yet they still do, which is extremely telling.</p>
+<p>Gold is not a perfect means of sound money either, however. While it retains value over time and is widely acknowledged as the best store of value, it is not very divisible or convenient to transfer between parties, let alone for average people to hold it securely without custodial services.</p>
+<p>Bitcoin emphatically represents sound money for the digital age, and while it is still very young, presents an undeniably fascinating case for a new form of value that is resistant to inflation, outside of the control of any single entity, highly divisible, and transferable to nearly <a href="https://bitcoinmagazine.com/articles/blockstream-satellites-now-cover-asia-pacific-send-messages-lightning/">anywhere on the globe</a>, wifi connection or not.</p>
+<hr />
+<h2>How Bitcoin Is Sound Money</h2>
+<p>One of the best ways to view <a href="https://blockonomi.com/best-bitcoin-casino/">Bitcoin</a> is as the first legitimate competition to central banking in the last century. Governments &#8212; and nobody for that matter &#8212; can control or destroy Bitcoin, introducing the notion of competition to an industry that has been dominated by Keynesian monetary policy for decades.</p>
+<p>Bitcoin meets all of the prerequisites for sound money and is built for the digital age of the Internet, a vast improvement in transferability and personal sovereignty of value.</p>
+<p>The amount of Bitcoin is capped at 21 million and is governed by an algorithm that cannot be fleetingly altered to inject more Bitcoin at a rate more than the elegant and predetermined value that is built into the protocol, <a href="https://blockonomi.com/bitcoin-halving/">which halves roughly every 4 years</a>.</p>
+<p>As such, Bitcoin’s stock-to-flow ratio gradually increases, meaning that its stock-to-flow ratio will eventually reach an immense level once the last bitcoins are issued <a href="https://blockonomi.com/bitcoin-mining-software/">through mining</a>. That is the definition of hard money.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-17941 aligncenter" src="https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide.jpg" alt="What is Bitcoin? Complete Guide" width="808" height="538" srcset="https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide.jpg 1400w, https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide-50x33.jpg 50w, https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2018/11/what-is-bitcoin-guide-1300x866.jpg 1300w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/what-is-bitcoin-ultimate-guide-beginners/">What is Bitcoin, Ultimate Guide</a></p>
+<p>Bitcoin is also decentralized, meaning that it is not subject to arbitrary policy decisions or needs of governments, third-parties, or malicious actors intent on destroying it as there is no single point of failure.</p>
+<p>Further, <a href="https://blockonomi.com/bitcoin-trading-bots/">Bitcoin</a> is governed by a <a href="https://medium.com/s/story/bitcoins-social-contract-1f8b05ee24a9">social consensus</a> layer, where the users determine what Bitcoin is, and the protocol just enforces the abstractly agreed-upon rules of the community sentiment.</p>
+<p>The incentive design of Bitcoin also leads to a self-sustaining economy of miners that adjust to Bitcoin’s difficulty algorithm, one of its most defining characteristics.</p>
+<p>Bitcoin as a means of value exchange is unprecedented. There has never existed a mechanism for transferring sums of value &#8212; large or small &#8212; to other parties across the world with settlement in minutes.</p>
+<p>Moreover, if you retain control of your private keys, the available funds are instantly yours, and there is no need to deal with trusted intermediaries, mitigating any capacity for censorship.</p>
+<p>This is the primary advantage that Bitcoin holds over gold as it is divisible into a satoshi unit that can be transferred without custodial services at the discretion of the users through the disintermediation of trust.</p>
+<p>Privacy also has profound implications for mitigating coercive control. <a href="https://blockonomi.com/cryptography-cypherpunks/">The cypherpunks touted cryptography</a> as the last legitimate means to preserve privacy in a digital age, and Bitcoin’s uncanny use of cryptographic primitives is a testament to the desire of many to transact privately and free from outside control.</p>
+<hr />
+<h2>Conclusion</h2>
+<p>While Bitcoin’s privacy is not perfect, it is constantly evolving, and the community has shown a strong preference to enhance its privacy-preserving properties continuously.</p>
+<p>Perhaps most importantly, sound money provides the foundation for personal sovereignty that removes the need for reliance on policies that affect value outside the control of individuals.</p>
+<p>Rather than relying on centrally directed and whimsical designs, users of Bitcoin retain what is theirs, and are free from the undue influence of others and subject only to the organic mechanics of a free market.</p>
+<p>Sound money has evolved throughout history. To view government issued fiat as the final destination of what constitutes value is to ignore the dynamic nature of technology and the willingness of people to protect the fundamental principles that they strongly believe in.</p>
+<p>The post <a href="https://blockonomi.com/sound-money-bitcoin/">What is Sound Money? A Look at Bitcoin’s Emergence</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blockonomi.com/sound-money-bitcoin/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">19512</post-id>	</item>
+		<item>
+		<title>What is Nakamoto Consensus? Complete Beginner’s Guide</title>
+		<link>https://blockonomi.com/nakamoto-consensus/</link>
+		
+		<dc:creator><![CDATA[Brian Curran]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2024 02:22:46 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[BTC]]></category>
+		<category><![CDATA[Consensus]]></category>
+		<category><![CDATA[mining]]></category>
+		<category><![CDATA[Nakamoto Consensus]]></category>
+		<category><![CDATA[proof of work]]></category>
+		<category><![CDATA[Satoshi Nakamoto]]></category>
+		<category><![CDATA[What is Nakamoto Consensus]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=9868</guid>
+
+					<description><![CDATA[<p>Consensus algorithms are paramount to verifying the authenticity of distributed blockchain platforms and are the process of building agreement among a network of mutually distrusting participants. Created by Satoshi Nakamoto for Bitcoin, Nakamoto Consensus refers to the set of rules, in conjunction with the Proof of Work consensus model in the network, that govern the [...]</p>
+<p>The post <a href="https://blockonomi.com/nakamoto-consensus/">What is Nakamoto Consensus? Complete Beginner’s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Consensus algorithms are paramount to verifying the authenticity of distributed blockchain platforms and are the process of building agreement among a network of mutually distrusting participants.</p>
+<p>Created by <a href="https://blockonomi.com/who-is-satoshi-nakamoto/">Satoshi Nakamoto</a> for Bitcoin, Nakamoto Consensus refers to the set of rules, in conjunction with the Proof of Work consensus model in the network, that govern the consensus mechanism and ensure its trustless nature.</p>
+<p>In doing so, Bitcoin became the first Byzantine Fault Tolerant (BFT) open and distributed Peer to Peer (P2P) network that utilizes a distributed network of anonymous nodes that are free to join and leave the network at will.</p>
+<hr />
+<h2>Quick Facts</h2>
+<table>
+<thead>
+<tr>
+<th>Quick Facts</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Created By</td>
+<td>Satoshi Nakamoto</td>
+</tr>
+<tr>
+<td>Used in</td>
+<td>Bitcoin and other proof-of-work cryptocurrencies</td>
+</tr>
+<tr>
+<td>Consensus Mechanism</td>
+<td>Proof-of-work mining</td>
+</tr>
+<tr>
+<td>Key Components</td>
+<td>Proof-of-work, block selection, scarcity, incentive structure</td>
+</tr>
+<tr>
+<td>Achieves</td>
+<td>Byzantine fault tolerance in open, distributed networks</td>
+</tr>
+<tr>
+<td>Scalability</td>
+<td>Socially scalable; overcomes problems in human nature</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Byzantine Fault Tolerance (BFT)</h2>
+<p><a href="https://en.wikipedia.org/wiki/Byzantine_fault_tolerance">Byzantine Fault Tolerance</a> is the ability of a distributed computer network to remain fault tolerant with valid consensus despite imperfect information or failed components of the network.</p>
+<p>Prior to Bitcoin, the only way to maintain a BFT, P2P network was through employing a closed or semi-closed group of nodes. Additionally, traditional BFT algorithms such as Practical Byzantine Fault Tolerance (pBFT) use a different node selection method than what is currently used in Nakamoto Consensus.</p>
+<p>Maintaining BFT in an open and distributed network like one as large as Bitcoin requires the use of a specific set of rules that rely on both cryptography and game theory mechanics in order to create the trustless environment necessary to facilitate decentralized consensus across a network of value transfer.</p>
+<figure id="attachment_40736" aria-describedby="caption-attachment-40736" style="width: 1400px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="wp-image-40736 size-full" src="https://blockonomi.com/wp-content/uploads/2018/05/Practical-Byzantine-Fault-Tolerance-2.jpg" alt="Practical Byzantine Fault Tolerance" width="1400" height="933" srcset="https://blockonomi.com/wp-content/uploads/2018/05/Practical-Byzantine-Fault-Tolerance-2.jpg 1400w, https://blockonomi.com/wp-content/uploads/2018/05/Practical-Byzantine-Fault-Tolerance-2-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/05/Practical-Byzantine-Fault-Tolerance-2-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/05/Practical-Byzantine-Fault-Tolerance-2-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/05/Practical-Byzantine-Fault-Tolerance-2-50x33.jpg 50w, https://blockonomi.com/wp-content/uploads/2018/05/Practical-Byzantine-Fault-Tolerance-2-270x180.jpg 270w" sizes="(max-width: 1400px) 100vw, 1400px" /><figcaption id="caption-attachment-40736" class="wp-caption-text">Practical Byzantine Fault Tolerance</figcaption></figure>
+<p>In <a href="https://blockonomi.com/practical-byzantine-fault-tolerance/">pBFT systems</a>, the consensus model only works in small groups of closed nodes (~50) where there is a substantial amount of communication overhead that prevents these consensus models from being able to operate at scale.</p>
+<p>Achieving consensus in systems with arbitrary faults usually requires a specific voting system to help achieve consensus.</p>
+<p>In regards to cryptocurrency platforms utilizing pBFT consensus models, this voting mechanism is predicated on a system of rotating “leader” nodes in a round-robin style format.</p>
+<p>Since the system consists of a network of limited, closed nodes, it is trivial for these nodes to communicate efficiently with each other and determine who the “leader” that proposes each new block is.</p>
+<p style="text-align: left;">However, this clearly does not scale well in a system such as Bitcoin where consensus on the entire state of the blockchain and validity of all of its transactions is distributed to thousands of nodes across the world that continually connect and disconnect from the network.</p>
+<p style="text-align: left;">Further, there needs to be an inherent cost to participating in this system of consensus to discourage participants from acting in a malicious manner.</p>
+<p>So, in order for Bitcoin to operate as a Byzantine Fault Tolerant P2P network, it introduced a PoW mining consensus algorithm in conjunction with a specific set of rules that govern the mechanism in order to achieve trustless consensus across the network. This has come to be referred to as classical Nakamoto Consensus.</p>
+<hr />
+<h2>How Does Nakamoto Consensus Work?</h2>
+<p>Nakamoto Consensus can be broken down into roughly 4 parts.</p>
+<ul>
+<li>Proof of Work (PoW)</li>
+<li>Block Selection</li>
+<li>Scarcity</li>
+<li>Incentive Structure</li>
+</ul>
+<p>The combination and harmonization of these 4 components of Bitcoin allow it to become the distributed network for value transfer that it is. It operates with trustless consensus and will remain secure as long as the majority of power contributed to the mining process is in the hands of honest miners, as you will see next.</p>
+<hr />
+<h2>Proof of Work</h2>
+<p>Overall, the most important the engine that drives consensus in Bitcoin is the <a href="https://blockonomi.com/how-cryptocurrencies-work/">Proof of Work consensus protocol</a>. Basically, miners use a specific full node to compete in mining blocks in order to earn the block reward that is issued for each successfully mined and validated block.</p>
+<p>The <a href="https://blockonomi.com/bitcoin-energy-consumption/">cost of this mining process is electricity</a>, which has a real world financial value, thus giving the issued BTC for each mined block an inherent value.</p>
+<p class="no-underline"><img loading="lazy" decoding="async" class="alignnone wp-image-3020 aligncenter" src="https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/01/bitcoin-mining.jpg" sizes="(max-width: 808px) 100vw, 808px" srcset="https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/01/bitcoin-mining.jpg 1400w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/01/bitcoin-mining-300x200.jpg 300w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/01/bitcoin-mining-768x512.jpg 768w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/01/bitcoin-mining-1024x682.jpg 1024w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/01/bitcoin-mining-450x300.jpg 450w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/01/bitcoin-mining-1300x866.jpg 1300w" alt="Bitcoin Mining" width="808" height="538" /></p>
+<p style="text-align: center;">Read more about <a href="https://blockonomi.com/bitcoin-mining/">Bitcoin Mining</a></p>
+<p>PoW in Bitcoin is designed to prevent double spending. While the digital signature scheme within the UTXO model provides the verifiable ownership of transaction outputs to be spent, it does not enable prevention of double spending.</p>
+<p>The blockchain is a chain of timestamped data blocks containing transactions with each block hashed to the previous one. This provides immutability to the blockchain, but how can you tell if the chain that you are on is the correct chain? This is where PoW comes in.</p>
+<p>Contributing to mining is based on computational power, the more power within the network that you have, the more likely you are to mine a block.</p>
+<p>However, the process is stochastic, so it basically is a lottery with random chance of who will win, so it is impossible to know who will win the next round and the cost to participate will continue to increase.</p>
+<p>Because of this model, the longest chain is considered the valid chain because it came from the largest pool of computational power. The validation rules ensure that proposed blocks have the requisite computational work performed in order to be accepted.</p>
+<p>Further, as long as the longest chain and majority of the network’s hashing power is controlled by honest nodes, the honest chain will grow the fastest and outpace competing chains.</p>
+<p>The result of this system is that once the cryptographic puzzle for the mining round is solved, a miner proposes the block to the network, the network validates the block if all the transactions within the block are not double spent, and the block is added to the longest chain.</p>
+<p>With a massive distributed network like Bitcoin’s, the cost of attacking the network through a <a href="https://blockonomi.com/51-attack-calculator/">51% attack</a> is enormous and only grows larger as the network continues to grow.</p>
+<figure id="attachment_8696" aria-describedby="caption-attachment-8696" style="width: 808px" class="wp-caption aligncenter"><a href="https://blockonomi.com/51-attack-calculator/"><img loading="lazy" decoding="async" class="wp-image-8696" src="https://blockonomi.com/wp-content/uploads/2018/05/51-attack.jpg" alt="51% Attack Calculator" width="808" height="538" srcset="https://blockonomi.com/wp-content/uploads/2018/05/51-attack.jpg 1400w, https://blockonomi.com/wp-content/uploads/2018/05/51-attack-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/05/51-attack-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/05/51-attack-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/05/51-attack-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2018/05/51-attack-1300x866.jpg 1300w" sizes="(max-width: 808px) 100vw, 808px" /></a><figcaption id="caption-attachment-8696" class="wp-caption-text"><a href="https://blockonomi.com/51-attack-calculator/">51% Attack Calculator</a></figcaption></figure>
+<hr />
+<h2>Block Selection</h2>
+<p>The block selection process utilized by Nakamoto Consensus is one of the key components that differentiates it from other consensus models. Since the model is predicated on a PoW design, the block selection process specifically refers to the “lottery” process for miners competing to win the block reward for mining the next block.</p>
+<p>Remember, in pBFT the block leader is selected through a voting process and replaced in a round-robin style format each round. There is no mining in this system, blocks are selected to be added to the chain by the leader and need to be approved by at least ⅔ of the other nodes.</p>
+<p>In Bitcoin, there is no voting process to determine the block leader. Instead, it utilizes a cryptographic puzzle predicated on incrementing a nonce in the block until the correct value that represents the block’s hash and required zero bits for the beginning of the nonce is reached.</p>
+<p>The miners in the network all compete to solve this puzzle and the first to find the solution wins the round of the lottery. The block is then propagated by the miner across the network to the other mining nodes who implicitly vote to accept the block as valid by adding the block to the longest chain.</p>
+<p>A resulting effect of this process is the removal of potential third-party influence on a block leader because the process is random and the leader cannot be predicted.</p>
+<p>The only way to win the lottery is by contributing hashing power to the network in hopes of winning, and when you don’t win, the expended energy becomes a sunk cost, adding to the incentive structure of mining.</p>
+<p>There becomes an inherent cost to participating, whether you successfully mine blocks or not.</p>
+<hr />
+<h2>Scarcity</h2>
+<p>Before inflationary currencies resulting from the fractional reserve banking system dominated the global currency scene, <a href="https://unenumerated.blogspot.com/2017/03/collecting-metal-inner-and-outer-worlds.html">precious metals were the main form of value storage and commerce</a>.</p>
+<p>One of the primary reasons that they were used, and still retain their historical value (think gold and silver), is because they are scarce. Not only are they scarce, but it requires effort (PoW above) to mine them and use them.</p>
+<p>Scarcity in Bitcoin is based on this premise by limiting the total number of Bitcoin that will be mined to 21 million. Additionally, Bitcoin can only be injected into the system through the mining process and it follows a deflationary scheme where the block reward is halved every 210,000 blocks (~4 years).</p>
+<hr />
+<h2>Incentive Structure</h2>
+<p>The deflationary design of Bitcoin creates an incentive mechanism for long-term vested interests by owners of Bitcoin and participants in the Bitcoin network to further secure and validate the network while also supporting the growth in value of Bitcoin itself.</p>
+<p>The deflationary nature of Bitcoin also creates an iterated game theory model where cooperation among individuals within the network is optimal through aligned interests driven by deflation in the long-term.</p>
+<p>Miners are incentivized to validate and secure the network honestly, as the reward they receive for mining a block is Bitcoin. If the value of Bitcoin drops or the the network becomes compromised, it effects their bottom line.</p>
+<p>Importantly, Bitcoin, utilizing Nakamoto Consensus, is a <em><a href="https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html">socially scalable</a></em> network. Through incentive designs, PoW, and sets of rules governing the mechanics of reaching trustless consensus, Bitcoin overcomes inherent problems in human nature to become a reliable and legitimate source of intrinsic value.</p>
+<hr />
+<h2>Conclusion</h2>
+<p>Nakamoto Consensus is the first consensus mechanism applied to distributed ledger systems as it coincided with invention of blockchains and is termed after its mysterious architect.</p>
+<p>The term “blockchain” is indiscriminately tossed around these days as a solution to every problem under the sun.</p>
+<p>Blockchains are an important component of cryptocurrencies, however, their vast potential would not be possible without being intertwined with other components of the platforms.</p>
+<p>In Bitcoin and some other proof of work cryptocurrencies, this is Nakamoto Consensus, and it is vital to forging a socially scalable network like Bitcoin.</p>
+<p>The post <a href="https://blockonomi.com/nakamoto-consensus/">What is Nakamoto Consensus? Complete Beginner’s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9868</post-id>	</item>
+		<item>
+		<title>What is IPFS? Interplanetary File System: Complete Beginner&#8217;s Guide</title>
+		<link>https://blockonomi.com/interplanetary-file-system/</link>
+					<comments>https://blockonomi.com/interplanetary-file-system/#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Curran]]></dc:creator>
+		<pubDate>Tue, 30 Jan 2024 17:15:36 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Interplanetary File System]]></category>
+		<category><![CDATA[ipfs]]></category>
+		<category><![CDATA[What is IPFS]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=8903</guid>
+
+					<description><![CDATA[<p>IPFS stands for Interplanetary File System and it is an open-source, peer-to-peer distributed hypermedia protocol that aims to function as a ubiquitous file system for all computing devices. It is a complex and highly ambitious project with some serious and profound implications on the future development and structure of the Internet as we know it. [...]</p>
+<p>The post <a href="https://blockonomi.com/interplanetary-file-system/">What is IPFS? Interplanetary File System: Complete Beginner&#8217;s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>IPFS stands for <em>Interplanetary File System</em> and it is an open-source, peer-to-peer distributed hypermedia protocol that aims to function as a ubiquitous file system for all computing devices.</p>
+<p>It is a complex and highly ambitious project with some serious and profound implications on the future development and structure of the Internet as we know it.</p>
+<hr />
+<h2>Quick Summary</h2>
+<ol>
+<li>IPFS aims is a distributed file system and hypermedia protocol to address issues with the current HTTP-based web, such as inefficient content delivery, high costs, centralization leading to censorship, and lack of permanence.</li>
+<li>IPFS allows asking peers on the network for content instead of downloading from a central server. This enables efficient distribution, versioning history, persistent availability, and content integrity.</li>
+<li>IPFS combines concepts from BitTorrent, Git, and systems like Kademlia. Content is uniquely identified by cryptographic hashes, allowing tamper-proof decentralization.</li>
+<li>The use of Merkle DAGs allows content addressing, deduplication, and tamper proofing. The IPNS naming system allows human-readable addressing.</li>
+<li>Benefits of IPFS include much lower storage and bandwidth costs, censorship resistance, faster performance for large datasets, permanent websites, and integration with blockchain networks.</li>
+<li>Use cases include cheaper content delivery, immutable storage and websites, integration with blockchain transactions to reduce bloat, and as a foundation layer for decentralized networks and applications.</li>
+</ol>
+<hr />
+<h2>Why IPFS and How Did It Start</h2>
+<p>The current iteration of the Internet is not nearly as decentralized as it was idealistically and initially perceived to become. It is also predicated on some outdated protocols that have led to a myriad of issues. The issues addressed by IPFS revolve around those associated with the current HTTP protocol of the Internet.</p>
+<p>If you are unfamiliar with the function of HTTP relative to the Internet, it basically underpins data communication across the entire Internet. HTTP was invented in 1991, adopted by web browsers in 1996, and it fundamentally establishes how messages are transmitted across the Internet as well as how browsers should respond to commands and servers deal with requests.</p>
+<p>Basically, it is the underlying protocol of how we browse the web and the protocol backbone of the client-server paradigm.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-10459 aligncenter" src="https://blockonomi.com/wp-content/uploads/2018/06/http-vs-ipfs.jpg" alt="Http vs IPFS" width="808" height="301" srcset="https://blockonomi.com/wp-content/uploads/2018/06/http-vs-ipfs.jpg 808w, https://blockonomi.com/wp-content/uploads/2018/06/http-vs-ipfs-300x112.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/06/http-vs-ipfs-768x286.jpg 768w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">HTTP vs IPFS, Image from <a href="https://www.maxcdn.com/one/visual-glossary/interplanetary-file-system/">MaxCDN</a></p>
+<p>While HTTP has provided us with Internet as we know it today, it has become outdated, and after more than 20 years the prevailing issues are becoming more and more readily apparent.</p>
+<p>Key problems stemming from the implementation of HTTP today are a result of the massive increase in Internet traffic and the resulting stress points that have been amplified.</p>
+<p>With the current implementation of HTTP, problems such as the following have emerged.</p>
+<ul>
+<li>Inefficient content delivery stemming from downloading files from a single server at a time.</li>
+<li>Expensive bandwidth costs and file duplication leading to bloated storage.</li>
+<li>Increasing centralization of servers and providers leading to increased Internet censorship.</li>
+<li>Fragile history of information stored on the Internet and short lifespans of webpages.</li>
+<li>Intermittent connections that lead to an offline developing world and slow connection speeds.</li>
+</ul>
+<p>The list of problems go on and it is no surprise that a technology more than 20 years old is becoming more noticeably outdated in an age of technological innovation. IPFS provides the distributed storage and file system that the Internet needs to achieve its true potential.</p>
+<p>Instead of downloading files from single servers, in IPFS, you ask peers in the network to give you a path to a file rather than it coming from a central server. This enables high volume data distribution with high efficiency, historic versioning, resilient networks, and persistent availability of content secured and verified through cryptographic hashing and distributed across a network of peers.</p>
+<p>All of this sounds promising, but how does it work?</p>
+<hr />
+<h2>How Does IPFS Work?</h2>
+<p>Basically, IPFS is a similar concept to the World Wide Web as we know it today, but resembles more of a single BitTorrent swarm that exchanges objects within a single Git repository.</p>
+<p>Files are distributed through a BitTorrent-based protocol. Importantly, IPFS acts as a sort of combination of Kodemila, BitTorrent, and Git to create a distributed subsystem of the Internet.</p>
+<p>The design of the protocol provides historic versioning of the Internet like with Git. Each file and all blocks within it are given a unique identifier, which is a cryptographic hash. Duplicates are removed across the network and version history is tracked for every file.</p>
+<p>This leads to persistently available content where web pages do not disappear because of a failed server or bankrupted web host.</p>
+<figure id="attachment_39094" aria-describedby="caption-attachment-39094" style="width: 770px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-large wp-image-39094" src="https://blockonomi.com/wp-content/uploads/2019/11/how-works-771x1024.jpg" alt="How IPFS Works" width="770" height="1023" srcset="https://blockonomi.com/wp-content/uploads/2019/11/how-works-771x1024.jpg 771w, https://blockonomi.com/wp-content/uploads/2019/11/how-works-226x300.jpg 226w, https://blockonomi.com/wp-content/uploads/2019/11/how-works-768x1020.jpg 768w, https://blockonomi.com/wp-content/uploads/2019/11/how-works-1157x1536.jpg 1157w, https://blockonomi.com/wp-content/uploads/2019/11/how-works-38x50.jpg 38w, https://blockonomi.com/wp-content/uploads/2019/11/how-works.jpg 1205w" sizes="(max-width: 770px) 100vw, 770px" /><figcaption id="caption-attachment-39094" class="wp-caption-text">How IPFS Works, <a href="https://ipfs.io/">Source</a></figcaption></figure>
+<p>Further, the authenticity of content is guaranteed through this mechanism and when looking up files, you are essentially asking the network to find nodes storing the content behind the unique identifying hash associated with that content.</p>
+<p>The links between the nodes in IPFS take the form of cryptographic hashes, and this is possible because of its Merkle DAG (<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph">Directed Acyclic Graphs</a>) data architecture. The benefits of Merkle DAGs to IPFS include the following:</p>
+<ul>
+<li>Content Addressing &#8211; Content has a unique identifier that is the cryptographic hash of the file.</li>
+<li>No Duplication &#8211; Files with the same content cannot be duplicated and only stored once.</li>
+<li>Tamper Proof &#8211; Data is verified with its checksum, so if the hash changes, then IPFS will know the data is tampered with.</li>
+</ul>
+<p>IPFS links file structures to each other using Merkle links and every file can be found by human-readable names using a decentralized naming system called IPNS.</p>
+<p>The implementation of Merkle Directed Acyclic Graphs (DAGS) are important to the underlying functionality of the protocol, but is more technical than the scope of this article.</p>
+<p>If you are interested in learning more about this aspect of IPFS, you can find much more detailed information on the IPFS <a href="https://github.com/ipfs">Github page</a> and <a href="https://blockonomi.com/merkle-tree/">more about how Merkle trees work here</a>.</p>
+<p><iframe class="youtube-player" width="814" height="458" src="https://www.youtube.com/embed/8CMxDNuuAiQ?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></p>
+<p>Each node only stores the content that it is interested in and indexes the information that allows it to figure out who is storing what. The framework for IPFS fundamentally removes the need for centralized servers to deliver website content to users.</p>
+<p>Eventually, this concept may entirely push the HTTP protocol into irrelevance and allow users to access content locally, offline. Instead of searching for servers as with the current infrastructure of the Internet, users will be searching for unique ID’s (cryptographic hashes), enabling millions of computers to deliver the file to you instead of just one server.</p>
+<p>The current main implementation of IPFS is in Go with implementations in both Python and Javascript on the way. It is compatible with Linux, MacOSX, Windows, and FreeBSD.</p>
+<p>Being an open source and community driven project, you can contribute by following the directions and documents on their Github page or <a href="https://ipfs.io/docs/getting-started/">operate your own IPFS node</a>.</p>
+<hr />
+<h2>Use Cases and Implications</h2>
+<p>There are already some important use cases for IPFS and more are sure to arise as the protocol continues to develop. Offering the new, distributed P2P architecture for the Internet comes with its complexities, but the benefits can be seen in everything from massive financial savings in storage and bandwidth to integration with distributed blockchain networks.</p>
+<p>Obvious advantages that come with the distributed storage model of IPFS apply to vastly more efficient data storage and immutable, permanence along with it.</p>
+<p>No longer will websites be relegated to cyclical 404 error messages due to downed servers or interrupted chain of HTTP links. Further, significant advantages are available for researchers in terms of efficiency, especially those needing to parse and analyze very large data sets.</p>
+<p>With the prevalence of Big Data in modern science, the fast performance and distributed archiving of data afforded by IPFS will become pertinent to accelerating advancements.</p>
+<p>Service providers and content creators can also substantially reduce their costs associated with delivering large amounts of data to customers. Current iterations of this paradigm are hindered by increasing bandwidth costs and data providers getting charged for peering agreements.</p>
+<p>The costs associated with delivering content through centralized infrastructures of interconnected networks is only increasing and creating an environment of critical inefficiency and further centralization in an attempt to overcome these burdens.</p>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-10460 aligncenter" src="https://blockonomi.com/wp-content/uploads/2018/06/ipfs-uses.jpg" alt="IPFS Uses" width="808" height="735" srcset="https://blockonomi.com/wp-content/uploads/2018/06/ipfs-uses.jpg 808w, https://blockonomi.com/wp-content/uploads/2018/06/ipfs-uses-300x273.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/06/ipfs-uses-768x699.jpg 768w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">IPFS uses, Image from <a href="https://blockchainmind.com/ipfs/">Blockchain Mind</a></p>
+<p>Additionally, centralization of servers leads to government snooping, increasing DDoS attack prevalence, ISP censorship, and private sale of data.</p>
+<p>As Juan Benet, the creator of IPFS stated “Content on IPFS can move through any untrusted middlemen without giving up control of the data or putting it at risk.”</p>
+<p>Finally, integration of IPFS with blockchain technology seems to be a perfect fit. Using IPFS within a blockchain transaction, you can place immutable, permanent links. Timestamps secure your data without having to actually store it on-chain which leads to reduced blockchain bloating and provides a convenient method for secure off-chain solutions to help blockchains scale.</p>
+<p>IPFS is being included in a number of cryptocurrency platforms and has the potential to symbiotically help the industry to scale by providing the peer to peer and distributed file system architecture that is needed as a foundation to help support the growth of cryptocurrency platforms.</p>
+<hr />
+<h2>Conclusion</h2>
+<p>As you can see, IPFS is a both technically and conceptually complex protocol that has lofty ambitions to revolutionize the exchange of data across the Internet.</p>
+<p>HTTP was successful in its own right and helped the Internet to reach the grand stage that it is at today, but new technologies are emerging, and the need for a reformed and distributed infrastructure has made itself apparent.</p>
+<p>The post <a href="https://blockonomi.com/interplanetary-file-system/">What is IPFS? Interplanetary File System: Complete Beginner&#8217;s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blockonomi.com/interplanetary-file-system/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8903</post-id>	</item>
+		<item>
+		<title>What is Tokenization? Democratizing Ownership &#038; Real-World Assets on the Blockchain</title>
+		<link>https://blockonomi.com/tokenization-blockchain/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Thu, 25 Jan 2024 11:11:46 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Fungible]]></category>
+		<category><![CDATA[Intangibles]]></category>
+		<category><![CDATA[Non-Fungible]]></category>
+		<category><![CDATA[tokenization]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=8881</guid>
+
+					<description><![CDATA[<p>It’s helpful sometimes to step back from the nitty-gritty of individual cryptocurrencies to look at the big picture. Blockchain technology promises to change many old technological and financial paradigms due to its uniquely transparent, immutable, and distributed structure. These advantages can be classed into a few big categories. Tokenization is one of these; the blockchain [...]</p>
+<p>The post <a href="https://blockonomi.com/tokenization-blockchain/">What is Tokenization? Democratizing Ownership &#038; Real-World Assets on the Blockchain</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>It’s helpful sometimes to step back from the nitty-gritty of individual cryptocurrencies to look at the big picture. Blockchain technology promises to change many old technological and financial paradigms due to its uniquely transparent, immutable, and distributed structure.</p>
+<p>These advantages can be classed into a few big categories. Tokenization is one of these; the blockchain has the ability to inject liquidity into previously illiquid or otherwise cumbersome markets.</p>
+<p>We’re going to take a brief survey of the tokenization landscape and the three main asset classes that are likely to benefit from increased blockchain adoption.</p>
+<hr />
+<h2>TLDR</h2>
+<ul>
+<li>Tokenization is the process of converting an asset into a digital token that can be moved or stored on a blockchain. This injects liquidity into previously illiquid markets.</li>
+<li>Key asset categories ripe for tokenization are intangibles like patents and copyrights, fungible assets like commodities, and unique non-fungible assets like famous artworks or real estate.</li>
+<li>Intangibles gain easier transferability and legitimacy via blockchain tokens representing their value. No need for cumbersome legal paperwork.</li>
+<li>Tokenizing fungible goods like oil and wheat enables precise tracking and instant exchanges without paperwork or intermediaries.</li>
+<li>Non-fungible artwork and property can be tokenized into &#8220;shares&#8221; allowing fractional ownership by more investors. Tokens prove authenticity and enable broader access.</li>
+</ul>
+<hr />
+<h2>Tokenization in a Nutshell</h2>
+<p>The first thing we have to discuss is what, exactly, tokenization is. Broadly speaking, tokenization is the process of converting some form of asset into a token that can be moved, recorded, or stored on a blockchain system.</p>
+<p>That sounds more complex than it is. To put it simply, tokenization converts the value stored in some object – a physical object, like a painting, or an intangible object, like a carbon credit – into a token that can be manipulated along a blockchain system.</p>
+<p>Bitcoin could be said to represent the tokenization of electrical use and computing power into a medium of exchange, for instance. This is a bit of an abstract example, but it gives us a base from which to work.</p>
+<p>The main takeaway for our purposes is that a blockchain is a system or platform, and its structure permits the trading of items that don’t really lend themselves to easy trading. Moreover, it’s got numerous advantages over so-called traditional paper markets, particularly in terms of speed, security, and accountability.</p>
+<p>Blockchain’s ability to tokenize assets is pretty much limitless, but it’s possible to group these assets into three broad categories. We’re going to look at them in order of innovation, or the blockchain’s ability to change the way traditional asset transfers are handled. These three categories are intangible assets, fungible assets, and non-fungible assets.</p>
+<hr />
+<h2>Intangibles</h2>
+<p>Intangibles are a natural for the world of blockchain because they don’t really exist, at least in the traditional sense. That might sound glib, but it’s true. Intangibles represent ideas or concepts, rather than physical goods, and so they more readily lend themselves to intangible markets – be they traditional paper markets or blockchain markets.</p>
+<p>You’re probably familiar with most of the big intangibles. Copyrights, patents, brand recognition, and goodwill are prime examples.</p>
+<p>One of the key things to remember about intangibles is that they don’t necessarily have an easy-to-peg value. What price would you put on the design for your new microchip? How about your unique business model? To get more specific, what’s the dollar value of Coke’s long-standing association with Christmas, polar bears and all?</p>
+<p>These concepts, however, can be represented by a token or many tokens on a blockchain system. They can be assigned a unique identifier and then traded, gaining their value from the market.</p>
+<p>Creating tokens for intangible assets gives them a solid backing for transfer and a secure guarantee of their legitimacy.</p>
+<p>Moreover, there’s no need to store or physically move the intangible asset. Just how do you transfer an idea from one person to another, anyway, in a legal and financial sense? You can either sift through reams of notarized legal paperwork, or you can exchange a digital token with a unique signature representing the intangible asset.</p>
+<p>For example, imagine Company A wishes to transfer the design for a certain widget to Company B. Company A and B are on opposite sides of the globe, however, and there is a pretty stark difference in how patents and copyrights are handled in their respective countries.</p>
+<p>The legal paperwork alone comes close to making the transaction prohibitively difficult and expensive. However, tokenizing the design allows Company A to make the transfer to Company B in an open, transparent way with an agreed-upon price executed via smart contract.</p>
+<p>The transaction is nearly instantaneous and instantly verifiable. The token’s assigned unique hash assures that it’s not just a copy of the original patent; it is the patent itself.</p>
+<hr />
+<h2>Fungible Goods</h2>
+<p>The next layer of innovation arrives with fungible goods. A good is fungible when it can be exchanged for another identical good of equal value. The most familiar fungible goods are commodities.</p>
+<p>A liter of water is equal to another liter of water, as a barrel of oil is equal to another barrel of oil or an ounce of gold is equal to another ounce of gold. Even stocks can be considered to be fungible, provided they are grouped together in identical packages.</p>
+<p>Very often, fungible assets are backed by a physical resource, somewhere – gold or wheat in a warehouse, water or oil in a pipeline.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-6000 aligncenter" src="https://blockonomi.com/wp-content/uploads/2018/03/digix-guide.jpg" alt="What is Digix ?" width="808" height="538" srcset="https://blockonomi.com/wp-content/uploads/2018/03/digix-guide.jpg 1400w, https://blockonomi.com/wp-content/uploads/2018/03/digix-guide-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/03/digix-guide-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/03/digix-guide-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/03/digix-guide-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2018/03/digix-guide-1300x866.jpg 1300w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/digixdao-guide/">DigixDAO: Tokenized Gold on the Ethereum Blockchain</a></p>
+<p>This property makes them difficult to physically trade. The difficulty is compounded when the scale of transactions comes into play.</p>
+<p>Fungible assets are often dealt with in bulk form, and delivery simply cannot be done instantaneously.</p>
+<p>A shipment of 10,000 short tons of line pipe, for instance, is pretty bulky. Transferring ownership of that asset from one entity to another either involves moving 10,000 short tons of steel or creating a paper trail, whereby the steel is transferred via a trusted third party, like a bank, to the new owner before it physically moves.</p>
+<p>A tokenized blockchain system cuts much of the work out of this process. A digital representation of the steel, for instance, can be traded between two parties on a blockchain utilizing smart contracts.</p>
+<p>There are no intermediaries in this process – <a href="https://blockonomi.com/blockchain-supply-chain-management/">no exchange agents, port officials, government checks, or warehouses</a>. The steel, which is uniquely identified on the blockchain, is moved from the buyer to the seller instantaneously, along with any auxiliary shipping or warehousing information.</p>
+<p>The sale is recorded on the blockchain so as to form a permanent and instantly verifiable receipt. This replaces the traditional paper record-keeping system and enables the exchange of fungible goods on a much more detailed and precise scale.</p>
+<hr />
+<h2>Non-Fungible Goods</h2>
+<p>Here’s where blockchain technology really gets interesting. Tokenization enables real-world, <a href="https://blockonomi.com/non-fungible-tokens/">non-fungible goods</a> to be parceled out into digital “shares,” which can then be bought, sold, or traded in a full or limited fashion with the public. The two most compelling use cases offered so far concern art and real estate.</p>
+<p>In all the world, there is only one real Mona Lisa painting. This physical painting is one of a kind, and it can only be bought or sold as a unit – that is, the smallest divisible unit of the Mona Lisa is one Mona Lisa.</p>
+<p>Moreover, this Mona Lisa is not the same as the millions of prints or digital copies of the Mona Lisa. In other words, a picture or poster of the Mona Lisa is not the Mona Lisa itself, and it doesn’t carry the same value.</p>
+<p class="no-underline"><img loading="lazy" decoding="async" class="alignnone wp-image-11235 aligncenter" src="https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/07/Non-Fungible-Tokens.jpg" sizes="(max-width: 808px) 100vw, 808px" srcset="https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/07/Non-Fungible-Tokens.jpg 1400w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/07/Non-Fungible-Tokens-300x200.jpg 300w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/07/Non-Fungible-Tokens-768x512.jpg 768w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/07/Non-Fungible-Tokens-1024x682.jpg 1024w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/07/Non-Fungible-Tokens-450x300.jpg 450w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/07/Non-Fungible-Tokens-1300x866.jpg 1300w" alt="Non-Fungible Tokens" width="808" height="538" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/non-fungible-tokens/">What are Non-Fungible Tokens?</a></p>
+<p><a href="https://blockonomi.com/blockchain-art/">Tokenizing a work of art</a> introduces a digital signature that cannot be altered. The digital token representing the Mona Lisa is one of a kind. It is not a copy.</p>
+<p>But the token can be broken down into sub-tokens, each also digitally signed. In this way, “shares” of a unique piece of art can be sold to the general public.</p>
+<p>The same goes for <a href="https://blockonomi.com/blockchain-real-estate/">unique pieces of real estate</a>, and indeed there are several coins working on both of these projects right now. The ability to tokenize unique, non-fungible assets means that ownership can be distributed.</p>
+<p>Funds can be raised more easily, and a broader group of entities takes responsibility for the care and upkeep of that item. Each holder of a Mona Lisa token doesn’t have a copy of the Mona Lisa – <a href="https://blockonomi.com/blockchain-art/">they actually own a part of the artwork itself</a>, which they can keep as a store of value or sell to another willing buyer.</p>
+<hr />
+<h2>Conclusion</h2>
+<p>Tokenization promises to change how broad asset classes are bought and sold, democratizing the process of owning everything from ideas to paintings. Blockchains offer a streamlined alternative to traditional paper markets and a unique way of sharing ownership of unique objects like painting or real estate. Via the blockchain, ownership is slowly taking on new meaning.</p>
+<hr />
+<h2>References</h2>
+<ol>
+<li>https://www.investopedia.com/terms/i/intangibleasset.asp</li>
+<li>https://medium.com/@bonpay/how-tokenization-changes-the-world-c068408360c1</li>
+<li>https://bitcoinmagazine.com/articles/op-ed-how-tokenization-putting-real-world-assets-blockchains/</li>
+<li>https://flowchain.co/Tokenized-Hardware-WhitePaper.pdf</li>
+<li>https://www.maecenas.co/</li>
+<li>https://hackernoon.com/is-it-possible-to-tokenize-the-real-estate-industry-4dde4b66f814</li>
+<li>https://masterthecrypto.com/tokenization-tokens-create-liquid-world/</li>
+<li>https://medium.com/@apompliano/the-official-guide-to-tokenized-securities-44e8342bb24f</li>
+</ol>
+<p>The post <a href="https://blockonomi.com/tokenization-blockchain/">What is Tokenization? Democratizing Ownership &#038; Real-World Assets on the Blockchain</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">8881</post-id>	</item>
+		<item>
+		<title>Want to Be a Successful Crypto Investor? Follow This Advice from Ethereum&#8217;s Co-Founder</title>
+		<link>https://blockonomi.com/want-to-be-a-successful-crypto-investor-follow-this-advice-from-ethereums-co-founder/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Mon, 08 Jan 2024 10:51:38 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=85450</guid>
+
+					<description><![CDATA[<p>Ethereum co-founder Vitalik Buterin recently offered some words of wisdom for navigating the crypto markets amidst economic uncertainty. His advice blends traditional investment strategies with a nuanced understanding of digital assets. Buterin stresses the importance of diversification, savings, moderation, and financial safety. Keypoints Diversify your investments across different sectors to mitigate risk Accumulate enough savings [...]</p>
+<p>The post <a href="https://blockonomi.com/want-to-be-a-successful-crypto-investor-follow-this-advice-from-ethereums-co-founder/">Want to Be a Successful Crypto Investor? Follow This Advice from Ethereum&#8217;s Co-Founder</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Ethereum co-founder Vitalik Buterin recently offered some words of wisdom for navigating the crypto markets amidst economic uncertainty. His advice blends traditional investment strategies with a nuanced understanding of digital assets. Buterin stresses the importance of diversification, savings, moderation, and financial safety.</p>
+<hr />
+<h2>Keypoints</h2>
+<ul>
+<li>Diversify your investments across different sectors to mitigate risk</li>
+<li>Accumulate enough savings to cover multiple years of expenses for financial safety</li>
+<li>Have a &#8220;boring&#8221; portfolio focused on steady, reliable long-term investments rather than thrill-seeking</li>
+<li>Don&#8217;t use more than 2x leverage when trading crypto to avoid excessive losses</li>
+<li>Spreading assets and having multiple income sources is better than relying on a single one</li>
+</ul>
+<hr />
+<p>First and foremost, Buterin advocates diversifying across different sectors to reduce risk. With new cryptocurrencies launching daily in an ever-evolving landscape, spreading assets across various areas can hedge against volatility. Buterin cautions against putting all your eggs in one basket. This aligns with proven investing principles in traditional finance.</p>
+<p>Additionally, Buterin underscores accumulating substantial savings &#8211; enough to cover multiple years of expenses. With cryptocurrency prices and job markets increasingly unpredictable, having this financial safety net provides freedom. It&#8217;s a buffer for riding out downturns when investing returns decline. Buterin sees this as the true meaning of financial freedom.</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">This is awful advice. Some actual financial advice:</p>
+<p>* Diversification is good.<br />* Save. Get to the point where you have enough to cover multiple years of expenses. Financial safety is freedom.<br />* Be boring with most of your portfolio.<br />* Don&#39;t use &gt;2x leverage. Just don&#39;t. <a href="https://t.co/CIvDJcD3UG">https://t.co/CIvDJcD3UG</a></p>
+<p>&mdash; vitalik.eth (@VitalikButerin) <a href="https://twitter.com/VitalikButerin/status/1743991285214527532?ref_src=twsrc%5Etfw">January 7, 2024</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Furthermore, Buterin recommends keeping most crypto portfolio allocations in &#8220;boring&#8221; assets, not thrill-seeking speculative bets. Though overnight crypto millionaire stories spark excitement, Buterin calls for responsible long-term positions focused on steady returns. Moderation and prudence should prevail over gambling on ultra-high risk holdings.</p>
+<p>Finally, the Ethereum founder warns strongly against using over 2x leverage when trading crypto futures. With such high volatility, excess leverage can lead to devastating liquidations, wiping out positions. Buterin insists on maintaining this boundary for long-term sustainability over short-term windfall bets.</p>
+<p>Buterin blends traditional wisdom with crypto-specific advice: diversify wisely, accumulate ample savings, keep allocations moderate, and avoid extremes of leverage. Follow these tips from one of crypto&#8217;s leading pioneers to navigate uncertainty and come out ahead.</p>
+<p>The key is prudent, balanced investing for sustainable gains rather than resorting to excess speculation. Buterin offers guidance for both newcomers and veterans alike facing the digital asset frontier.</p>
+<p>The post <a href="https://blockonomi.com/want-to-be-a-successful-crypto-investor-follow-this-advice-from-ethereums-co-founder/">Want to Be a Successful Crypto Investor? Follow This Advice from Ethereum&#8217;s Co-Founder</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">85450</post-id>	</item>
+		<item>
+		<title>What is a Bitcoin ETF? Here&#8217;s Everything You Need to Know</title>
+		<link>https://blockonomi.com/what-is-a-bitcoin-etf/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2023 11:35:19 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=83711</guid>
+
+					<description><![CDATA[<p>Bitcoin has come a long way since its inception in 2009 as an obscure cryptocurrency used on the dark web. What began as an experimental digital asset built on a decentralized peer-to-peer payment network has rapidly gained mainstream adoption and recognition in recent years. Major financial players like banks, investment firms, and now even the [...]</p>
+<p>The post <a href="https://blockonomi.com/what-is-a-bitcoin-etf/">What is a Bitcoin ETF? Here&#8217;s Everything You Need to Know</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a href="https://blockonomi.com/what-is-bitcoin-ultimate-guide-beginners/">Bitcoin has come a long way</a> since <a href="https://blockonomi.com/who-is-satoshi-nakamoto/">its inception in 2009</a> as an obscure cryptocurrency used on the dark web. What began as an experimental digital asset built on a decentralized peer-to-peer payment network has rapidly gained mainstream adoption and recognition in recent years.</p>
+<p>Major financial players like banks, investment firms, and now even <a href="https://blockonomi.com/el-salvador-bitcoin-gamble-pays-off-as-btc-bounce-puts-investments-in-the-black/">the country of El Salvador</a> have embraced Bitcoin as a legitimate store of value and means of payment. Price volatility and speculation remain high, but increased regulation and infrastructure around Bitcoin point to a maturing market.</p>
+<p>Within traditional finance, exchange-traded funds (ETFs) have become a standard way for everyday investors to gain exposure to asset classes like stocks, commodities, and precious metals. As Bitcoin’s credibility grows, it is only natural for the conversation to turn to a Bitcoin-backed exchange-traded fund. But what exactly is a Bitcoin ETF and why does it matter?</p>
+<p>In short, a Bitcoin ETF would allow average investors to gain Bitcoin exposure without having to directly hold or manage the asset. Just like with gold ETFs, a fund would purchase and store Bitcoin while issuing shares that track its underlying price. Investors can then trade the ETF like stocks through existing brokerage accounts and investment platforms they already use.</p>
+<p>Approval of a Bitcoin ETF would represent Wall Street and regulatory acceptance and help bring cryptocurrency fully into the financial mainstream. However, challenges around Bitcoin’s inherent volatility and questions over regulation and custody solutions for crypto assets have hampered progress so far. But momentum is accelerating and financial markets eagerly anticipate regulators opening the doors to a Bitcoin ETF at some point soon.</p>
+<hr />
+<h2>What is a Bitcoin ETF?</h2>
+<p>A Bitcoin exchange-traded fund (ETF) would allow traditional investors to gain exposure to Bitcoin prices without having to directly purchase and hold the digital currency. Essentially, a Bitcoin ETF would operate like any other ETF &#8211; tracking an underlying asset&#8217;s price movements by purchasing and storing the asset. Shares of the ETF could then be bought or sold on exchanges just like stocks.</p>
+<p>More specifically, a Bitcoin ETF would invest in either Bitcoin itself or Bitcoin futures contracts. Either way, under the hood, the ETF would handle acquiring and custodying the Bitcoins or contracts. Investors would simply be buying and selling shares in the fund. These shares would represent ownership interests in the ETF’s underlying Bitcoin holdings.</p>
+<figure id="attachment_83717" aria-describedby="caption-attachment-83717" style="width: 1358px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-full wp-image-83717" src="https://blockonomi.com/wp-content/uploads/2023/12/etfs.png" alt="Bitcoin ETF Tracker" width="1358" height="887" srcset="https://blockonomi.com/wp-content/uploads/2023/12/etfs.png 1358w, https://blockonomi.com/wp-content/uploads/2023/12/etfs-300x196.png 300w, https://blockonomi.com/wp-content/uploads/2023/12/etfs-768x502.png 768w, https://blockonomi.com/wp-content/uploads/2023/12/etfs-50x33.png 50w, https://blockonomi.com/wp-content/uploads/2023/12/etfs-150x98.png 150w, https://blockonomi.com/wp-content/uploads/2023/12/etfs-450x294.png 450w, https://blockonomi.com/wp-content/uploads/2023/12/etfs-1200x784.png 1200w" sizes="(max-width: 1358px) 100vw, 1358px" /><figcaption id="caption-attachment-83717" class="wp-caption-text">Bitcoin ETF Tracker from<a href="https://blockworks.co/bitcoin-etf"> Blockworks</a></figcaption></figure>
+<p>The main purpose of a Bitcoin ETF lies in its convenience and accessibility. By centralizing Bitcoin investments into a regulated fund structure, investors avoid dealing with complex digital wallet security issues and technologically daunting aspects of holding cryptocurrency directly. Instead, they can gain price exposure through traditional investing platforms they are already familiar with, like Vanguard, Fidelity, or Robinhood.</p>
+<p>Professional fund managers operate Bitcoin ETFs as well, monitoring price movements, executing buy/sell decisions, and implementing custody solutions. This helps optimize tax efficiency and minimize the risks often experienced by individual Bitcoin investors.</p>
+<p>In short, Bitcoin ETFs simply offer an easier way to invest in Bitcoin without technical complexity. Just like gold ETFs brought that precious metal into more mainstream investment portfolios, a crypto-based ETF can provide accessibility while letting users still benefit from Bitcoin’s volatility and upside potential.</p>
+<hr />
+<h2>The Case for a Bitcoin ETF</h2>
+<p>There are several compelling reasons why approval of a Bitcoin ETF makes sense:</p>
+<ul>
+<li><strong>Increased Legitimacy</strong> &#8211; A Bitcoin ETF would represent significant validation of cryptocurrency by the deeply respected financial system and regulatory bodies like the SEC. Bitcoin is still seen as the &#8220;Wild West&#8221; by some investors and the general public. A regulated ETF would bring increased trust and dispel lingering misconceptions.</li>
+<li><strong>Easier Exposure for Average Investors</strong> &#8211; For many investors interested in diversifying into Bitcoin, the technical complexities of using exchanges and self-custody wallets remains overwhelming. Packaging exposure into an ETF through familiar investing platforms substantially lowers barriers to entry with a vehicle they understand.</li>
+<li><strong>Further Mainstream Adoption</strong> &#8211; Bitcoin ETFs could rapidly accelerate already impressive consumer adoption rates. Look no further than the impact gold ETFs had on that market, with tons of investor money flooding in once wrapped within a fund structure. The same phenomenon would likely take place, but at crypto speed and scale.</li>
+<li><strong>Onramp from Traditional Finance</strong> &#8211; Not only retail investors would gain Bitcoin exposure from ETFs. They also provide an easy way for classic institutional finance players like hedge funds, pensions, endowments, and more to get in on the action through platforms they already use and trust.</li>
+<li><strong>Exposure to Leading Cryptocurrency</strong> &#8211; For investors excited about crypto technology but still wary of volatility and risk, a Bitcoin ETF offers a safer, regulated way to invest that limits complex security concerns but maintains most of the upside. Bitcoin remains the &#8220;digital gold&#8221; gateway into crypto, and ETFs may be the gateway into Bitcoin.</li>
+</ul>
+<p>The arguments for finally approving a Bitcoin ETF seem clear. It offers legitimacy, accessibility, liquidity, and regulated oversight to balance Bitcoin&#8217;s risks. The question now lies in whether regulators agree the time has come.</p>
+<hr />
+<h2>Impacts of a Bitcoin ETF</h2>
+<p>The approval and launch of a Bitcoin ETF would have wide-ranging impacts across the cryptocurrency landscape:</p>
+<ul>
+<li><strong>Increased Investor Demand</strong> &#8211; Perhaps the most straight-forward impact would be substantially higher demand stemming from investors who were waiting on the sidelines for an SEC-approved fund to gain exposure. As seen prior examples like gold and silver ETFs, the floodgates of pent-up capital could rapidly flow into the underlying asset once packaged into an accessible fund.</li>
+<li><strong>Stabilize Prices</strong> &#8211; Billions in inflows would also help stabilize Bitcoin&#8217;s still volatile price swings. Greater liquidity and trading activity tends to smooth out large fluctuations &#8211; despite what some crypto idealists may think. Steady prices and consistent returns would also reassure traditional investors not used to 80% drawdowns.</li>
+<li><strong>Pave Way for Alt-Coin ETFs</strong> &#8211; While Bitcoin would be the first mover, ETFs tracking other prominent cryptocurrencies like Ethereum or sectors like DeFi may arrive shortly after. The crypto space could look extremely different in another 5 years with various ETF investment options.</li>
+<li><strong>Build Real-World Use Cases</strong> &#8211; With increased investment from the mainstream financial world may come higher real-world Bitcoin adoption as well. More companies may be willing to accept cryptocurrency payments, offer features integrating with blockchains, or even invest their corporate reserves in Bitcoin.</li>
+<li><strong>Legitimizing Effect</strong> &#8211; And underlying all of these impacts is the legitimizing power that SEC approval of a Bitcoin ETF would signal. No longer considered a renegade digital currency, investment firms and advisors touting Bitcoin exposure could force most to rethink their assumptions about crypto.</li>
+</ul>
+<hr />
+<h2>Conclusion</h2>
+<p>Bitcoin&#8217;s incredible rise over the last decade has ushered in a new digital asset class, capturing the attention of Wall Street along the way. However, the cryptocurrency field remains daunting for traditional investors used to SEC-approved vehicles and platforms. Enter the Bitcoin ETF &#8211; an accessible, regulated fund structure holding the most prominent digital coin.</p>
+<p>Approval of a Bitcoin ETF would bridge the gap between crypto idealists looking to upend the financial system and investors seeking exposure to innovative technologies through familiar means. Just as gold and silver gained mainstream adoption once wrapped in an ETF, so too could Bitcoin permeate portfolios as the gateway to cryptocurrency.</p>
+<p>Challenges around volatility and questions over custody solutions have kept SEC approval at bay thus far. But make no mistake &#8211; a Bitcoin ETF remains imminent. The benefits around legitimacy, liquidity, transparency, and regulated oversight make too much sense.</p>
+<p>And while a futures-backed model prevails currently, limitations around tracking inaccuracies suggest a physically-backed spot Bitcoin ETF may yet win the day. Either way, an SEC-approved fund would propel cryptocurrencies firmly into the financial mainstream &#8211; granting investors big and small easier access to this burgeoning new asset class.</p>
+<p>The Bitcoin ETF conversation now centers not on &#8220;if&#8221; but &#8220;when&#8221;.</p>
+<p>The post <a href="https://blockonomi.com/what-is-a-bitcoin-etf/">What is a Bitcoin ETF? Here&#8217;s Everything You Need to Know</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">83711</post-id>	</item>
+		<item>
+		<title>What is Blockchain Governance? Complete Beginner&#8217;s Guide</title>
+		<link>https://blockonomi.com/blockchain-governance/</link>
+					<comments>https://blockonomi.com/blockchain-governance/#comments</comments>
+		
+		<dc:creator><![CDATA[Brian Curran]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2023 10:05:20 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[Blockchain Governance]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[decred]]></category>
+		<category><![CDATA[DFINITY]]></category>
+		<category><![CDATA[EOS]]></category>
+		<category><![CDATA[tezos]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=14450</guid>
+
+					<description><![CDATA[<p>Blockchain networks, specifically public blockchains, exist as decentralized networks that need to maintain byzantine fault tolerance to retain authenticity. This is not only difficult in itself but requires novel forms of distributed governance to achieve long-term sustainability of the network as a whole, balancing human intuitions and algorithmic governance. Governance of blockchains is one of [...]</p>
+<p>The post <a href="https://blockonomi.com/blockchain-governance/">What is Blockchain Governance? Complete Beginner&#8217;s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Blockchain networks, specifically public blockchains, exist as decentralized networks that need to maintain <a href="https://blockonomi.com/practical-byzantine-fault-tolerance/">byzantine fault tolerance</a> to retain authenticity. This is not only difficult in itself but requires novel forms of distributed governance to achieve long-term sustainability of the network as a whole, balancing human intuitions and algorithmic governance.</p>
+<p>Governance of blockchains is one of the more fascinating and complicated topics in the space. Which blockchain networks can adapt, and how they adjust, will be vital to shaping the future landscape of the industry.</p>
+<p><strong>Quick Verdict:</strong> This article explores the complex landscape of blockchain governance, contrasting traditional centralized models against novel decentralized approaches using both off-chain consensus and experimental direct on-chain voting to achieve flexibility and sustainability, the ultimate effectiveness of which remains uncertain.</p>
+<hr />
+<h2>Quick Facts</h2>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Information</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Current Governance Structure</td>
+<td>Governance has historically been centralized in governments, tech companies, media outlets. This centralization causes issues like censorship and misinformation. Blockchains have potential for more decentralized governance.</td>
+</tr>
+<tr>
+<td>Blockchain Governance &#8211; Types</td>
+<td>Two main types: off-chain (more centralized, resembles traditional structures) and on-chain (direct voting mechanisms, more experimental)</td>
+</tr>
+<tr>
+<td>Off-Chain Governance</td>
+<td>Used by Bitcoin and Ethereum currently. Gives some flexibility to users but still fairly centralized. Rely on core developers, miners, businesses to reach consensus.</td>
+</tr>
+<tr>
+<td>On-Chain Governance</td>
+<td>Newer approach to give more voting power to users. Implemented through protocols like DFINITY, Tezos, Decred. Concerns around sustainability of direct democracy &#8220;mob rule&#8221; models. Still very much experimental.</td>
+</tr>
+<tr>
+<td>Future Outlook</td>
+<td>Unclear which governance models will work long-term. Likely a blend of off-chain and on-chain. Will take years to play out as governance structures evolve along with the technology.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>The Current Governance Structure</h2>
+<p>Blockchains aside, it is worth evaluating how governance functions within major institutions and the Internet today to help give decentralized governance some context.</p>
+<p>Governance has historically been and, likely will continue to be, a polarizing topic. The authority afforded federal governments, centralized tech companies, mainstream media outlets, and other influential institutions has continually been at the forefront of news and debate.</p>
+<p>Government models of authority and power typically take decades, if not centuries to form and often grow parallel to cultural changes.</p>
+<p>The rise of powerful tech companies like Amazon, Google, Apple, and Facebook has happened so quickly that it is hard to gauge a precedent for their <a href="https://blockonomi.com/online-censorship-decentralized-content-distribution/">dominance</a>, particularly considering their dominance is over the Internet, a completely novel medium of communication.</p>
+<figure id="attachment_27417" aria-describedby="caption-attachment-27417" style="width: 770px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-large wp-image-27417" src="https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-1024x682.jpg" alt="Censorship" width="770" height="513" srcset="https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-50x33.jpg 50w, https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-610x407.jpg 610w, https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2019/05/censorship-1-1300x866.jpg 1300w, https://blockonomi.com/wp-content/uploads/2019/05/censorship-1.jpg 1400w" sizes="(max-width: 770px) 100vw, 770px" /><figcaption id="caption-attachment-27417" class="wp-caption-text"><a href="https://blockonomi.com/online-censorship-decentralized-content-distribution/">Online Censorship Problems</a> &amp; The Promise of Decentralized Content Distribution</figcaption></figure>
+<p>The increasing <a href="https://www.nytimes.com/2017/03/06/science/technology-addiction-irresistible-by-adam-alter.html">addiction</a> of people to screens further gives media organizations similar power in dispersing information to the public.</p>
+<p>Out of these institutions, what are their shared governing tenets and how do they apply to blockchain networks?</p>
+<p>In relation to the subsequent section on blockchain governance, we can break down the governance of current institutions into roughly 4 categories:</p>
+<ol>
+<li>Consensus</li>
+<li>Incentives</li>
+<li>Information</li>
+<li>Governing Structure</li>
+</ol>
+<p>While governance is more nuanced &#8212; especially taking social/economic considerations into account &#8212; analyzing governance through the above categories applies aptly to blockchains.</p>
+<h3>Consenus</h3>
+<p><i>Consensus </i>typically takes the form of hierarchical centralization in traditional governance. The US is a representative democracy comprised of elected representatives that represent larger voter interests.</p>
+<p>Companies like Facebook and Twitter operate as centralized hierarchies with top-down power structures. The consensus in these models comes about through agreement through refined groups of individuals rather than direct democracies, an important consideration.</p>
+<p>Although consensus among the US Congress is often frustratingly challenging to achieve, it is effective in mitigating conflicts that would otherwise arise without representative democracy.</p>
+<h3>Incentives</h3>
+<p><i>Incentives</i> have a more subtle role in government and a pronounced role in institutions like tech companies. Incentives in government democracies are game theory mechanics at work, facilitating cooperation and defection between representatives with <a href="https://static1.1.sqspcdn.com/static/f/1225229/25539273/1413071159350/Axelrod_1981.pdf?token=2nLleU8FBlcZXW1rZkPY9SSKF9M%3D">cooperation emerging</a> more often than defection, otherwise, the government would break down.</p>
+<p>The slow-grind of conflicting incentives in representative democracies is often necessary for the long-term despite its shortcomings. Comparatively, institutions like major tech companies are primarily driven by profit.</p>
+<p>Do not let misleading ad and marketing campaigns convince you otherwise. Facebook’s <a href="https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/">data scandal</a> is a textbook example of taking advantage of its users for such purposes.</p>
+<h3>Information</h3>
+<p><i>Information</i> is difficult to put into context, especially considering the emergence of fake news and the continually <a href="http://www.pewresearch.org/packages/political-polarization/">escalating polarization</a> of American politics. In the context of representative democracy, information is vital for voters to be informed on topics properly and crucial for their representatives to adequately understand their voters’ concerns and respond appropriately.</p>
+<p>Misinformation is a legitimate problem today, and navigating authentic information is not an easy task across a vast Internet.</p>
+<h3>Governing Structure</h3>
+<p><i>Governing Structure</i> is appropriately correlated with consensus and has a distinct component where it is more flexible in blockchains compared to traditional institutions. Government structures are explicitly defined and exceedingly difficult to change.</p>
+<p>Moreover, corporate structures as top-down hierarchies have proven to be effective profit machines so changing the dynamic isn’t really necessary.</p>
+<p>This is where governance becomes interesting. What happens when governing structures can adapt more fluidly based on the above components when applied to blockchains that exist as transparent and decentralized networks?</p>
+<hr />
+<h2>Blockchain Governance</h2>
+<p>On the front-end, it is important to make the distinction that blockchains are a novel technology, with many moving parts and no real provably sustainable governance mechanism outside of Bitcoin, <i>which is only a decade old</i>.</p>
+<p>Governance in blockchains can be broadly separated into 2 primary categories:</p>
+<ol>
+<li>Off-Chain Governance</li>
+<li>On-Chain Governance</li>
+</ol>
+<h3>Off-Chain Governance</h3>
+<p>Off-chain governance more closely resembles traditional governing structures. Established cryptocurrencies such as Bitcoin and Ethereum use this model of governance through a balance (semi-balanced?) of power between core developers, miners, users, and business entities as part of the community.</p>
+<p><a href="https://blockonomi.com/buy-bitcoin/">Bitcoin’s</a> sustainability thus far can largely be attributed to its recognition of the need for a slow evolution that is composed of gradually implementing improvements.</p>
+<p>This is made possible primarily by its <a href="https://github.com/bitcoin/bips">BIP proposal system</a>, conservative approach to change by the core devs and contribution to solutions such as the Lightning Network by multiple parties to facilitate further adoption and on-board mainstream users.</p>
+<figure id="attachment_11136" aria-describedby="caption-attachment-11136" style="width: 770px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-large wp-image-11136" src="https://blockonomi.com/wp-content/uploads/2018/07/ethereum-guide-1024x682.jpg" alt="Ethereum Guide" width="770" height="513" srcset="https://blockonomi.com/wp-content/uploads/2018/07/ethereum-guide-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/07/ethereum-guide-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/07/ethereum-guide-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/07/ethereum-guide-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2018/07/ethereum-guide-1300x866.jpg 1300w, https://blockonomi.com/wp-content/uploads/2018/07/ethereum-guide.jpg 1400w" sizes="(max-width: 770px) 100vw, 770px" /><figcaption id="caption-attachment-11136" class="wp-caption-text"><a href="https://blockonomi.com/ethereum-guide/">What is Ethereum?</a> Beginner’s Guide to This Decentralized Computing Platform</figcaption></figure>
+<p>However, off-chain governance is relatively centralized and excludes many mainstream users that lack the technical knowledge or financial power to effect network decisions adequately. To many, this may seem necessary as direct democracies present some <a href="https://harvardpolitics.com/united-states/the-dangers-of-direct-democracy/">clear dangers</a> to sustainability.</p>
+<p>Despite centralization, users of blockchains are granted flexibility not otherwise seen with traditional governance models. Hard forks empower users not happy with the governance of a network to create their own system by splitting the original open-source protocol. The costs for doing so are dramatically reduced compared to splitting a government or a corporate structure.</p>
+<p>Hard forks may seem like great solutions for freedom of choice in governance; however, they increase the <a href="https://twitter.com/TokenHash/status/1041406844705501185">social attack surface</a> of blockchains and should be minimized to counter this risk, something BTC has taken into account well.</p>
+<p>The <i>consensus</i> in off-chain systems is typically achieved by leaders in the community. For instance, Bitcoin’s off-chain consensus (<i>not</i> consensus on transactions) is reached by large mining players such as Bitmain, core devs, and business entities interacting with each other and coming to an agreement.</p>
+<p>Using <a href="https://blockonomi.com/bitcoin-trading-bots/">Bitcoin</a> as an example again, off-chain governance <i>incentives</i> are disparate between the participating entities and can cause problems, with <a href="https://en.wikipedia.org/wiki/SegWit2x">SegWit2X</a> providing an excellent example of this. Miners want fees, devs want controlled implementation of change as well as increasing network success, and businesses want whatever is best for their bottom line.</p>
+<p>While misaligned incentives largely led to the Bitcoin Cash hard fork, this has not presented a significant problem for Bitcoin so far.</p>
+<p><i>Information</i> on Bitcoin and other public blockchains is a unique proposition. The inherent transparency and trustless, decentralized nature of Bitcoin offers insights into the mechanics of the platform not available with governments or major corporations.</p>
+<p>This transparency is profoundly useful, but can also drive polarized incentives by different parties once network effects solidify entrenched positions. Information is not perfect in blockchains, but it is much better than traditional models of governance and is capable of <i>redefining the dispersion of information on the Internet</i>.</p>
+<p>The off-chain <i>governing structure</i> is not as centralized as major institutions like media or tech giants but still retains a noteworthy degree of centralization. However, Bitcoin’s BIP proposal mechanism and the ability of technically informed developers to make meaningful contributions to its development separate it from hierarchical structures of legacy institutions.</p>
+<p>Evolving off-chain governance systems has proven to take time and is usually a result of many individual actions that contribute to a broader trend that is virtually impossible to analyze from a macro perspective. Off-chain solutions for governance should continue to adapt to the blockchain space and may bring with them some novel forms of governance.</p>
+<h3>On-Chain Governance</h3>
+<p>On-chain governance is the more recent iteration of governance in blockchains and brings with it some fascinating and polarizing concepts. So far, many of the on-chain governance implementations have either just launched or not even launched yet.</p>
+<p>On-chain governance solutions for blockchains primarily implement some form of direct democracy through on-chain voting mechanisms that are optimized for that specific network.</p>
+<p>One of the primary concerns of bootstrapping on-chain governance is the historical precedent for governance in general. Governance models clearly take a <b><i>long</i></b> time to develop. Particularly considering that managing hierarchical governance is challenging in itself, extrapolating governance to a novel technology of decentralized users presents another problem entirely.</p>
+<p><a href="https://blockonomi.com/eos-guide/">EOS</a> is an excellent example of how difficult it is to implement a governance protocol and expect it to work out of the gate.</p>
+<p>With the current speed and access to information today, the development and solidifying of on-chain governance may be accelerated, but it will still take much more time before effective models of on-chain governance prove their long-term validity, if they ever do.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-3356 aligncenter" src="https://blockonomi.com/wp-content/uploads/2018/02/eos-guide.jpg" alt="EOS Guide" width="808" height="538" srcset="https://blockonomi.com/wp-content/uploads/2018/02/eos-guide.jpg 1400w, https://blockonomi.com/wp-content/uploads/2018/02/eos-guide-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2018/02/eos-guide-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2018/02/eos-guide-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2018/02/eos-guide-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2018/02/eos-guide-1300x866.jpg 1300w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/eos-guide/">What is EOS?</a></p>
+<p>The <i>consensus</i> in on-chain governance models is typically achieved through direct voting through the protocol. This type of consensus represents more of a direct democracy with some slight optimizations for each blockchain.</p>
+<p>This is an entirely new form of consensus for governance, so there is no real use-case available with enough time to evaluate whether or not it is or can be successful. Voting results are governed algorithmically and their automatic execution is built directly into the protocol.</p>
+<p><i>Incentives</i> in on-chain governance models vary distinctly from the off-chain form in that the design is to transfer power from the miners and developers to the users. While this may seem fairer, there are still lingering questions about its effectiveness in adequately steering the platform’s development in the right direction.</p>
+<p>Conflicting incentives between users will naturally arise and many of them do not have the required technical knowledge or stakes (<a href="https://medium.com/incerto/what-do-i-mean-by-skin-in-the-game-my-own-version-cc858dc73260">skin in the game</a>) in the protocol to accurately represent the best interest of the platform.</p>
+<p><i>Information</i> in on-chain governance systems is similar to information of off-chain governance systems in that the transparency of the blockchain is not removed. However, they differ in that voting and proposals for development happen transparently on-chain for everyone to see.</p>
+<p>While this is improved with <a href="https://blockonomi.com/how-to-make-money-bitcoin/">Bitcoin’s</a> BIP proposal, concerns with <a href="https://blockonomi.com/ethereum-vs-bitcoin/">Ethereum’s</a> centralization in off-chain governance (see the recent <a href="https://cointelegraph.com/news/ethereum-core-devs-delay-difficulty-bomb-reduce-block-rewards-to-2-eth">decision</a> to reduce the block reward) illuminate how a degree of transparency is still missing from many public blockchains with off-chain governance.</p>
+<p>With on-chain governance, information concerning reducing the block reward would be proposed and voted on by stakeholders or a hybrid on-chain/off-chain mechanism with full transparency.</p>
+<p><i>Governing structure</i> of on-chain systems differs from traditional institutions in its direct democracy approach, something not employed by contemporary institutions or governments. The on-chain governing structure differs from off-chain governance due to precisely that, it shifts governance on-chain rather than through off-chain channels.</p>
+<p>Consensus is reached through a decentralized voting system, allowing the platform to adapt and become much more flexible than the majority of traditional models of governance. Decentralized governance has historically only worked well in small groups such as communities.</p>
+<p>Transitioning governance to a large decentralized network of pseudonymous and, sometimes completely anonymous, users presents profound challenges.</p>
+<p>Taking that into account, it is easiest to understand the models of on-chain governance by observing some platforms that are implementing on-chain governance protocols.</p>
+<hr />
+<h2>DFINITY</h2>
+<p><a href="https://www.dfinity.org/">DFINITY</a> is pegged as the “Internet Computer” that is effectively a decentralized cloud computer. Its Threshold Relay-based consensus is intriguing, and another topic entirely, so let’s focus on its governance.</p>
+<p>DFINITY employs a “<a href="https://medium.com/dfinity/the-dfinity-blockchain-nervous-system-a5dd1783288e">Blockchain Nervous System</a>” (BLS) that is an algorithmic governing mechanism for protecting users from attacks and dynamically optimizing the on-chain governance and security. Primarily based on problems associated with hacking (like the <a href="https://www.coindesk.com/understanding-dao-hack-journalists/">DAO</a>) where hackers are able to abscond with stolen funds, DFINITY allows <i>chain rewrites</i> if an aggravated party gains support from the requisite number of peers to reverse the transaction.</p>
+<p>This is interesting for several reasons. First, chain rewrites by majority vote effectively remove the immutability of the blockchain. While the DAO attack produced Ethereum Classic predicated on “<i>Code is law</i>,” DFINITY’s model is slightly different in that for the rewrite of the blockchain (in this context, now Ethereum), the decision is made on-chain rather than off-chain.</p>
+<p>This is great for mitigating legitimate hacks in the eyes of many, but as a whole, presents some serious concerns about the power of the majority in DFINITY. For instance, if the network becomes polarized with 2 differing opinions (a typical <a href="https://en.wikipedia.org/wiki/Binary_opposition">tendency of humans</a>), and one side has a 55 percent majority while the other side has 45 percent, what is the extent of power that the 55 percent majority will eventually have over the other 45 percent?</p>
+<p>DFINITY’s on-chain rewrite mechanism through quorum voting is interesting, but it is empirically a form of direct democracy known as “<a href="https://www.theatlantic.com/magazine/archive/2018/10/james-madison-mob-rule/568351/"><i>mob rule</i></a>” with unproven sustainability as it has not even launched yet.</p>
+<p>However, participation in voting is usually meager, which changes the implications of majority rule in the long-run. Again, DFINITY has not launched yet, so it is impossible to analyze how this will play out.</p>
+<hr />
+<h2>Tezos</h2>
+<p><a href="https://blockonomi.com/tezos-guide/">Tezos</a> is the “self-amending ledger” that formalizes on-chain governance. Similar to DFINITY, Tezos’ approach allows the participating users of its proof of stake model to vote on everything, including <i>chain rewrites. </i>This presents similar problems as DFINITY but without an algorithm and specialized “neurons” making the decisions as in the BLS.</p>
+<p class="no-underline"><img loading="lazy" decoding="async" class="alignnone wp-image-9477 aligncenter" src="https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/06/tezos-kyc.jpg" sizes="(max-width: 808px) 100vw, 808px" srcset="https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/06/tezos-kyc.jpg 1400w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/06/tezos-kyc-300x200.jpg 300w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/06/tezos-kyc-768x512.jpg 768w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/06/tezos-kyc-1024x682.jpg 1024w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/06/tezos-kyc-450x300.jpg 450w, https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2018/06/tezos-kyc-1300x866.jpg 1300w" alt="Tezos KYC" width="808" height="538" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/tezos-guide/">What is Tezos?</a></p>
+<p>Tezos uses a proof of stake model, so voting is weighted based on user stakes. Many average users do not have enough financial resources to make a substantial impact on decisions by stake-based voting, so this model trends towards centralization and the similar problems associated with direct democracy’s majority rule dilemma.</p>
+<p>Tezos allow for <a href="https://en.wikipedia.org/wiki/Delegative_democracy">delegated democracies</a>, however. Users can delegate their votes to others, resembling a more representative democracy in governance. Changes will likely face stiffer resistance if users actively participate in the delegation of votes which could prove useful for the platform in the long-term.</p>
+<hr />
+<h2>Decred</h2>
+<p><a href="https://blockonomi.com/decred-guide/">Decred</a> implements a more complex on-chain governance model predicated on distributing the power between stakeholders and miners. Decred has a hybrid proof of work/proof of stake consensus mechanism. Importantly, it uses a self-funding model for the network similar to Dash that funds its development.</p>
+<p><img loading="lazy" decoding="async" class="alignnone wp-image-762 aligncenter" src="https://blockonomi.com/wp-content/uploads/2017/10/decred.jpg" alt="Decred Review" width="808" height="538" srcset="https://blockonomi.com/wp-content/uploads/2017/10/decred.jpg 1400w, https://blockonomi.com/wp-content/uploads/2017/10/decred-300x200.jpg 300w, https://blockonomi.com/wp-content/uploads/2017/10/decred-768x512.jpg 768w, https://blockonomi.com/wp-content/uploads/2017/10/decred-1024x682.jpg 1024w, https://blockonomi.com/wp-content/uploads/2017/10/decred-450x300.jpg 450w, https://blockonomi.com/wp-content/uploads/2017/10/decred-1300x866.jpg 1300w" sizes="(max-width: 808px) 100vw, 808px" /></p>
+<p style="text-align: center;">Read: <a href="https://blockonomi.com/decred-guide/">What is Decred?</a></p>
+<p>The Decred community decentralizes these funds as a <a href="https://blockonomi.com/what-is-a-dao/">DAO</a> and can submit improvement proposals and vote on funding specific developments through a <a href="https://docs.decred.org/governance/governance/">ticket voting</a> process. Users can lock funds in and participate in 3 governance mechanisms with the received “<i>active tickets</i>,” including 2 off-chain and 1 on-chain.</p>
+<p>Through random ticket selection, users can vote on on-chain agenda voting to the consensus rules, voting to approve PoW miner work, and <i>Politeia</i> proposal voting.</p>
+<p>Politeia voting does not directly occur on-chain but is interwoven into the blockchain in specific ways and concerns votes on changing the Decred Constitution.</p>
+<p>Similar to Tezos and DFINITY, Decred’s ability to “amend” the blockchain raises concerns over immutability and the power of the majority of voters participating in the protocol. However, its hybrid model may prove effective in balancing the power of direct voting on-chain that can lead to problems.</p>
+<p>A clear distinction about the concerns around the power of the majority in amending the blockchain is twofold. First, amending blockchains removes their immutability, a powerful component of their application.</p>
+<p>Second, the ability to amend the blockchain runs contrary to the slow, conservative and gradual implementation of improvements that is the approach taken by Bitcoin.</p>
+<p>While Bitcoin’s model may have room for improvement, it is so far the best example of sustainable governance in the cryptocurrency sphere. Amending protocols may prove effective, but tempering their occurrence is likely a strong hedge against their negative consequences like moving further away from the original tenets over time.</p>
+<hr />
+<h2>The Future of On-Chain Governance</h2>
+<p>On-chain governance has some decisive implications and has become a highly polarizing topic in the cryptocurrency space. Fred Ehrsam provided an insightful Medium <a href="https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74">post</a> about on-chain governance mechanics and their future potential. Conversely, Vlad Zamfir <a href="https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca">responded</a> to Ehrsam’s post with some of his serious concerns around on-chain governance moving forward.</p>
+<p>Both positions point to the complexity associated with blockchain governance and how many different iterations of decentralized governance we may eventually see.</p>
+<p>Haseeb Qureshi also supplies an excellent analysis of <a href="https://hackernoon.com/blockchains-should-not-be-democracies-14379e0e23ad">governance</a> in blockchains and elaborates on precisely why they should not adopt traditional models of democracy as governance structures. Further, Vitalik Buterin also has some great <a href="https://vitalik.ca/general/2017/12/17/voting.html">insights</a> into blockchain governance.</p>
+<p>Decentralized <a href="https://blockonomi.com/bluehost-coupon-code/">systems</a> are difficult enough to manage in the short-term to properly function. Adding in long-term sustainability through experimenting with bootstrapped governance models adds a layer of complexity that obscures any realistic projection of what future governance for blockchains might look like.</p>
+<p>Whether or not on-chain, off-chain, or a combination of both governance models will eventually prevail will likely take years to unfold. Over that time, there will assuredly be some groundbreaking revelations in <a href="https://blockonomi.com/technology/">technology</a> and evolving governance structures to fit the new paradigm of the decentralized Internet.</p>
+<p>The post <a href="https://blockonomi.com/blockchain-governance/">What is Blockchain Governance? Complete Beginner&#8217;s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://blockonomi.com/blockchain-governance/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14450</post-id>	</item>
+		<item>
+		<title>What is Chainlink CCIP? Complete Beginner&#8217;s Guide</title>
+		<link>https://blockonomi.com/what-is-chainlink-ccip/</link>
+		
+		<dc:creator><![CDATA[Oliver Dale]]></dc:creator>
+		<pubDate>Tue, 14 Nov 2023 12:13:30 +0000</pubDate>
+				<category><![CDATA[Education]]></category>
+		<guid isPermaLink="false">https://blockonomi.com/?p=82259</guid>
+
+					<description><![CDATA[<p>The emergence of multiple blockchain networks like Ethereum, Solana, and Polkadot has led to an increasingly multi-chain world. However, a major challenge is that these different blockchains cannot easily communicate with each other out-of-the-box. This severely limits what decentralized applications (dApps) can achieve, since they can only leverage the capabilities of one chain at a [...]</p>
+<p>The post <a href="https://blockonomi.com/what-is-chainlink-ccip/">What is Chainlink CCIP? Complete Beginner&#8217;s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The emergence of multiple blockchain networks like Ethereum, Solana, and Polkadot has led to an increasingly multi-chain world. However, a major challenge is that these different blockchains cannot easily communicate with each other out-of-the-box. This severely limits what decentralized applications (dApps) can achieve, since they can only leverage the capabilities of one chain at a time.</p>
+<p>That&#8217;s where blockchain interoperability protocols like the <a href="https://chain.link/cross-chain">Cross-Chain Interoperability Protocol (CCIP)</a> come in.</p>
+<p>Developed by the blockchain middleware company <a href="https://blockonomi.com/chainlink-guide/">Chainlink</a>, CCIP provides a standardized way for smart contracts on different blockchains to seamlessly communicate.</p>
+<p>This enables a whole new world of cross-chain dApps that can harness the unique strengths of multiple networks. With CCIP, tokens, data, and commands can be sent across chains, unlocking revolutionary new use cases.</p>
+<p>In this beginner&#8217;s guide, we&#8217;ll explore what CCIP is, how it works under the hood, real-world applications being built on it, and why interoperability protocols like CCIP are so important for the future of Web3.</p>
+<p><strong>Quick Verdict:</strong> Chainlink&#8217;s Cross-Chain Interoperability Protocol (CCIP) enables seamless communication between smart contracts across different blockchains, unlocking a new generation of cross-chain decentralized applications.</p>
+<hr />
+<h2>What is CCIP?</h2>
+<p>CCIP stands for Cross-Chain Interoperability Protocol. In simple terms, it is a standard that enables smart contracts on different blockchains to communicate with each other.</p>
+<p>Before CCIP, if you had a decentralized application on Ethereum that wanted to interact with another app on a blockchain like Solana, it was extremely difficult. That&#8217;s because the underlying infrastructure of each chain is unique. They have their own isolated set of accounts, contracts, tokens, and methods for sending transactions.</p>
+<p>CCIP provides a common language that all these disparate blockchains can understand. It acts as a translation layer that allows sending and receiving of messages across networks. This messaging system allows transferring data, tokens, or both across chains.</p>
+<figure id="attachment_82266" aria-describedby="caption-attachment-82266" style="width: 1000px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-full wp-image-82266" src="https://blockonomi.com/wp-content/uploads/2023/11/ccip.jpg" alt="Cross-chain by Chainlink" width="1000" height="544" srcset="https://blockonomi.com/wp-content/uploads/2023/11/ccip.jpg 1000w, https://blockonomi.com/wp-content/uploads/2023/11/ccip-300x163.jpg 300w, https://blockonomi.com/wp-content/uploads/2023/11/ccip-768x418.jpg 768w, https://blockonomi.com/wp-content/uploads/2023/11/ccip-50x27.jpg 50w, https://blockonomi.com/wp-content/uploads/2023/11/ccip-150x82.jpg 150w, https://blockonomi.com/wp-content/uploads/2023/11/ccip-450x245.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /><figcaption id="caption-attachment-82266" class="wp-caption-text">Cross-chain by Chainlink</figcaption></figure>
+<p>CCIP was developed by the blockchain company Chainlink. They already provide a decentralized oracle network that allows smart contracts to access off-chain data. Expanding their infrastructure to support generalized communication between chains was a natural evolution.</p>
+<p>The vision is for CCIP to become an open standard that any blockchain can adopt. By integrating CCIP, chains and applications gain interoperability with the whole ecosystem. This opens up a new world of possible cross-chain use cases.</p>
+<hr />
+<h2>Key Capabilities</h2>
+<ul>
+<li><strong>Arbitrary Messaging</strong> &#8211; This allows sending raw data encoded as bytes to a smart contract on another chain. Developers can encode any instructions they want to trigger actions on the receiving chain. For example, they could encode orders to mint NFTs or execute complex workflows.</li>
+<li><strong>Token Transfers</strong> &#8211; CCIP supports transferring tokens directly to smart contracts or EOAs (externally owned accounts controlled by users) on other chains. This allows assets to seamlessly move across blockchain environments.</li>
+<li><strong>Programmable Token Transfers</strong> &#8211; This advanced capability combines token transfers with arbitrary messaging. Users can send tokens along with custom instructions on what to do with them in a single cross-chain transaction. For instance, a user could send tokens as collateral to take out a flash loan on another chain.</li>
+</ul>
+<p>The key is that CCIP provides a generalized messaging framework, not just token bridging between specific chains. Developers build customized cross-chain applications using the flexible building blocks CCIP offers.</p>
+<p>Receiving accounts can be smart contracts or EOAs:</p>
+<ul>
+<li>Smart contracts can receive arbitrary data and tokens.</li>
+<li>EOAs can receive tokens but not data messages.</li>
+</ul>
+<p>This architecture allows CCIP to support advanced cross-chain dApps as well as simple token transfers.</p>
+<hr />
+<h2>Architecture</h2>
+<p>Under the hood, CCIP utilizes a layered architecture that allows it to achieve security, reliability, and interoperability between heterogenous blockchains.</p>
+<p>At the base layer, CCIP relies on <a href="https://blockonomi.com/oracles-guide/">Chainlink&#8217;s decentralized oracle network.</a> This is made up of independent node operators that provide reliable off-chain computation and data delivery to blockchains.</p>
+<p>CCIP uses an upgraded version of Chainlink&#8217;s Off-Chain Reporting protocol (OCR). This enables secure and efficient consensus among oracle nodes off-chain, which is crucial for cross-chain communication.</p>
+<p>On top of the oracle layer, CCIP introduces a novel Risk Management Network. This is comprised of independent oracle nodes monitoring the health of CCIP&#8217;s services. If any issues are detected, it can trigger automated shutdown to prevent losses.</p>
+<p>At the core is the CCIP messaging protocol itself. This defines common standards and APIs for sending and receiving data across chains. Smart contracts integrate these APIs to seamlessly harness cross-chain communication.</p>
+<p>On top of CCIP, additional modules can be built, like token bridges or data relays between specific chain pairs. Users can also build customized UI interfaces to access CCIP&#8217;s cross-chain capabilities.</p>
+<p>This modular architecture maximizes flexibility and interoperability across all blockchains. Developers can mix and match components to build bespoke cross-chain applications.</p>
+<hr />
+<h2>Use Cases</h2>
+<p>CCIP unlocks a myriad of new cross-chain use cases that were previously very difficult or impossible to implement. Here are some examples:</p>
+<ul>
+<li><strong>Cross-Chain Lending</strong> &#8211; CCIP can facilitate lending and borrowing across decentralized finance (DeFi) protocols on different chains. Users get access to liquidity pools on multiple networks.</li>
+<li><strong>Yield Optimization</strong> &#8211; Users can leverage CCIP to move collateral across chains and maximize yields by taking advantage of protocol incentives and interest rates on multiple platforms.</li>
+<li><strong>Low-Cost Transactions</strong> &#8211; Chains with lower fees can be used for computation, while settlement occurs on more secure chains, reducing costs for users.</li>
+<li><strong>Data Availability</strong> &#8211; Data can be stored on chains with cheap storage like Polygon, while computation happens on chains like Solana, optimizing dApp designs.</li>
+<li><strong>Hybrid dApps</strong> &#8211; New types of dApps can be created that harness the unique strengths of different chains in a single application.</li>
+<li><strong>Metaverse/NFTs</strong> &#8211; CCIP can enable use cases like cross-metaverse asset portability and P2E gaming across chains.</li>
+<li><strong>Automated Workflows</strong> &#8211; Smart contracts can encode complex conditional workflows across chains using CCIP messaging.</li>
+</ul>
+<p>The possibilities are endless when you start combining multiple isolated blockchains into a unified application! CCIP is the key infrastructure making these next-generation use cases a reality.</p>
+<hr />
+<h2>Adoption and Support</h2>
+<p>For an interoperability protocol like CCIP to succeed, it needs widespread integration across many chains, dApps, and infrastructure providers.</p>
+<p>The good news is that Chainlink already has an extensive ecosystem. Over 100 unique chains and protocols actively use its oracle services. Many have expressed interest in adopting CCIP once released.</p>
+<p>Leading chains like Ethereum, BNB Chain, Polygon, Avalanche, and Fantom are likely to be early integrators. These networks want to provide their dApp developers with easy cross-chain capabilities.</p>
+<p>Many of the top DeFi protocols also plan to adopt CCIP. Initiatives like Aave Arc are already working on cross-chain versions of their platforms using CCIP for interoperability.</p>
+<p>Finally, Chainlink&#8217;s own Programmable Token Bridge will provide a reference implementation showing how to use CCIP for secure token transfers.</p>
+<p>Given Chainlink&#8217;s leading position in blockchain middleware, CCIP is poised to become a widely adopted standard for interoperability. This will create a truly interconnected ecosystem where dApps seamlessly harness the strengths of all networks.</p>
+<hr />
+<h2>Development Resources</h2>
+<ul>
+<li><a href="https://chain.link/cross-chain">Cross-Chain Website</a></li>
+<li><a href="https://docs.chain.link/ccip">Official Documentation</a></li>
+</ul>
+<hr />
+<h2>Conclusion</h2>
+<p>Chainlink&#8217;s Cross-Chain Interoperability Protocol (CCIP) represents a major milestone in realizing the vision of a truly interconnected multi-chain future.</p>
+<p>By providing a standardized messaging layer, CCIP enables seamless communication between smart contracts across isolated blockchains for the first time.</p>
+<p>This unlocks revolutionary new cross-chain applications that can harness the unique capabilities of different networks in a single dApp. CCIP powers use cases like optimized yield farming, hybrid computations, interoperable NFTs, and much more.</p>
+<p>Equally as important, CCIP offers a robust and secure infrastructure built on Chainlink&#8217;s time-tested oracle network. This provides reliability and protection for mission-critical cross-chain transactions.</p>
+<p>As CCIP adoption grows across chains like Ethereum and Solana, it will usher in the next stage in the evolution of Web3 &#8211; where decentralized networks interoperate rather than compete.</p>
+<p>The possibilities are endless when all blockchains can speak the same language. CCIP is the translation layer enabling this new multi-chain future.</p>
+<p>The post <a href="https://blockonomi.com/what-is-chainlink-ccip/">What is Chainlink CCIP? Complete Beginner&#8217;s Guide</a> appeared first on <a href="https://blockonomi.com">Blockonomi</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">82259</post-id>	</item>
+	</channel>
+</rss>
